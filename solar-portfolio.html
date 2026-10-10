@@ -180,6 +180,23 @@ footer{border-top:1px solid var(--edge);background:rgba(5,6,15,.85);margin-top:8
 .floaty{animation:fl 6s ease-in-out infinite}
 @keyframes fl{50%{transform:translateY(-8px)}}
 
+/* Mobile menu */
+.menu-btn{display:none;flex:none;width:46px;height:46px;border-radius:50%;border:1px solid var(--edge);background:var(--glass);flex-direction:column;align-items:center;justify-content:center;gap:5px;cursor:pointer;padding:0}
+.menu-btn span{display:block;width:18px;height:2px;border-radius:2px;background:var(--ink);transition:transform .3s ease,opacity .3s ease}
+.top.open .menu-btn span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+.top.open .menu-btn span:nth-child(2){opacity:0}
+.top.open .menu-btn span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+.mnav{display:none}
+@media (max-width:900px){
+  .menu-btn{display:flex}
+  .mnav{display:block;position:absolute;left:12px;right:12px;top:calc(100% + 8px);padding:10px;border-radius:24px;background:rgba(11,13,34,.97);border:1px solid var(--edge);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);box-shadow:0 30px 60px -20px rgba(0,0,0,.9);
+    opacity:0;visibility:hidden;transform:translateY(-8px);transition:opacity .25s ease,transform .25s ease,visibility .25s}
+  .top.open .mnav{opacity:1;visibility:visible;transform:none}
+  .mnav a:not(.btn){display:flex;align-items:center;min-height:52px;padding:0 16px;border-radius:14px;text-decoration:none;font:600 18px/1 var(--display);color:var(--ink)}
+  .mnav a:not(.btn):hover,.mnav a:not(.btn):focus-visible{background:var(--glass-2)}
+  .mnav .btn{width:100%;margin-top:8px}
+}
+
 @media (max-width:600px){
   .top-in{margin:10px 10px 0;padding:6px 6px 6px 14px;gap:12px}
   .logo{height:38px}
@@ -213,7 +230,12 @@ footer{border-top:1px solid var(--edge);background:rgba(5,6,15,.85);margin-top:8
       <a href="#solarxp">Solarxp</a><a href="#sungrid">Sungrid</a><a href="#skynxt">Skynxt Solar</a><a href="#rk-solar">RK Solar</a>
     </nav>
     <a class="btn btn-main" href="#contact">Get solar leads</a>
+    <button class="menu-btn" id="menuBtn" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mnav"><span></span><span></span><span></span></button>
   </div>
+  <nav class="mnav" id="mnav" aria-label="Mobile">
+    <a href="index.html">Home</a><a href="#solarxp">Solarxp</a><a href="#sungrid">Sungrid</a><a href="#skynxt">Skynxt Solar</a><a href="#rk-solar">RK Solar</a><a href="index.html#services">Our services</a>
+    <a class="btn btn-main" href="#contact">Get solar leads</a>
+  </nav>
 </header>
 
 <main>
@@ -600,6 +622,17 @@ footer{border-top:1px solid var(--edge);background:rgba(5,6,15,.85);margin-top:8
 <script>
 document.getElementById('yr').textContent = new Date().getFullYear();
 document.getElementById('waSolar').href = 'https://wa.me/918130829730?text=' + encodeURIComponent("Hi Performance and Pixel, I run a solar business and saw your solar portfolio. I'd like to talk about getting more enquiries.");
+
+/* Mobile menu toggle */
+(function(){ const top=document.querySelector('.top'), b=document.getElementById('menuBtn'), m=document.getElementById('mnav'); if(!b) return;
+  const set=o=>{ top.classList.toggle('open',o); b.setAttribute('aria-expanded',o); b.setAttribute('aria-label',o?'Close menu':'Open menu'); };
+  b.addEventListener('click',()=>set(!top.classList.contains('open')));
+  m.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>set(false)));
+  document.addEventListener('keydown',e=>{ if(e.key==='Escape'&&top.classList.contains('open')){ set(false); b.focus(); } });
+  document.addEventListener('click',e=>{ if(top.classList.contains('open')&&!top.contains(e.target)) set(false); });
+  addEventListener('resize',()=>{ if(innerWidth>900) set(false); });
+})();
+
 const io = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } }), {threshold:.15});
 document.querySelectorAll('.reveal').forEach(el => io.observe(el));
 </script>
