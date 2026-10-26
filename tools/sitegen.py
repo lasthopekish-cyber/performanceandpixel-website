@@ -136,15 +136,18 @@ def build_page(spec):
          "isPartOf": {"@id": SITE + "#website"}},
         {"@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE},
-            {"@type": "ListItem", "position": 2, "name": "Delhi NCR", "item": SITE + "digital-marketing-agency-delhi-ncr.html"},
-            {"@type": "ListItem", "position": 3, "name": crumb_name, "item": url}]},
+        ] + ([] if spec.get("top_level") else [
+            {"@type": "ListItem", "position": 2, "name": "Delhi NCR", "item": SITE + "digital-marketing-agency-delhi-ncr.html"}]) + [
+            {"@type": "ListItem", "position": 2 if spec.get("top_level") else 3, "name": crumb_name, "item": url}]},
         {"@type": "Service", "name": strip_tags(spec["h1"]), "serviceType": spec["service_type"], "url": url,
          "provider": provider(),
          "areaServed": [{"@type": "City", "name": a} for a in areas] + [{"@type": "Country", "name": "India"}],
          "hasOfferCatalog": {"@type": "OfferCatalog", "name": spec["service_type"], "itemListElement": [
              {"@type": "Offer", "itemOffered": {"@type": "Service", "name": o}} for o in spec["offers"]]}},
         faq_ld(spec["faqs"]),
-    ]
+    ] + spec.get("extra_ld", [])
+    if spec.get("no_service_ld"):
+        ld = [n for n in ld if n.get("@type") != "Service"]
     tpl = swap_head(tpl, spec, url, ld)
     secs = []
     for i, s in enumerate(spec["sections"]):
@@ -159,7 +162,7 @@ def build_page(spec):
     main = f'''<main>
 <section class="pagehero">
     <div class="wrap">
-      <nav class="crumb" aria-label="Breadcrumb"><a href="index.html">Home</a><span aria-hidden="true">/</span><a href="digital-marketing-agency-delhi-ncr.html">Delhi NCR</a><span aria-hidden="true">/</span><span>{esc(crumb_name)}</span></nav>
+      <nav class="crumb" aria-label="Breadcrumb"><a href="index.html">Home</a><span aria-hidden="true">/</span>{"" if spec.get("top_level") else '<a href="digital-marketing-agency-delhi-ncr.html">Delhi NCR</a><span aria-hidden="true">/</span>'}<span>{esc(crumb_name)}</span></nav>
       <span class="kicker"><i></i>{esc(spec["kicker"])}</span>
       <h1>{h1_html(spec)}</h1>
       <p class="lead">{spec["lead"]}</p>

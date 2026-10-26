@@ -1,0 +1,56 @@
+{
+  "slug": "whatsapp-automation-agency-delhi-ncr",
+  "seo_title": "WhatsApp Automation Agency in Delhi NCR | Performance and Pixel",
+  "description": "WhatsApp automation for businesses in Delhi NCR: instant lead replies, click-to-WhatsApp ads, follow-up sequences, review requests and CRM on the official API.",
+  "h1": "WhatsApp automation agency in Delhi NCR.",
+  "h1_accent": "Delhi NCR.",
+  "kicker": "WhatsApp automation · Delhi NCR",
+  "crumb": "WhatsApp automation",
+  "service_type": "WhatsApp marketing automation",
+  "offers": ["WhatsApp Business API setup", "Instant lead auto-replies", "Click-to-WhatsApp ad campaigns", "Follow-up and nurture sequences", "Google review requests on WhatsApp", "CRM and lead routing"],
+  "lead": "Most leads go cold because nobody replies fast enough. We set up WhatsApp automation that answers every enquiry within minutes, follows up until they're ready, routes hot leads to your team and asks happy customers for Google reviews, all on WhatsApp's official Business Platform.",
+  "hero_cta": "Get a free WhatsApp setup plan",
+  "hero_cta2": "What we set up",
+  "sections": [
+    {
+      "id": "setup",
+      "kicker": "What we set up",
+      "h2": "WhatsApp that works while your team sleeps.",
+      "html": "<div class=\"grid3\"><article class=\"card glass reveal\" style=\"--c:#21B573\"><h3>Instant lead replies</h3><p>Every Facebook, Instagram, Google or website lead gets a personalised WhatsApp message within minutes, day or night.</p></article><article class=\"card glass reveal\" style=\"--c:#4D7CFF\"><h3>Click-to-WhatsApp ads</h3><p>Meta ads that open a WhatsApp chat instead of a form, with an automatic greeting and qualifying questions.</p></article><article class=\"card glass reveal\" style=\"--c:#FFB547\"><h3>Follow-up sequences</h3><p>Timed reminders, brochures, price lists and offers for leads who didn't reply the first time.</p></article><article class=\"card glass reveal\" style=\"--c:#3DDC97\"><h3>Review requests</h3><p>An automatic message with your Google review link after each sale or service. <a href=\"blog/how-to-get-more-google-reviews.html\">Why reviews matter</a>.</p></article><article class=\"card glass reveal\" style=\"--c:#9B6BFF\"><h3>Lead routing and CRM</h3><p>Hot leads assigned to the right salesperson, with every chat and status in one place.</p></article><article class=\"card glass reveal\" style=\"--c:#FF4FB4\"><h3>Safe broadcasting</h3><p>Approved message templates and opt-in lists so you message customers without getting your number blocked.</p></article></div>"
+    },
+    {
+      "id": "why",
+      "kicker": "Why it matters",
+      "h2": "Speed to lead decides who wins the sale.",
+      "html": "<p class=\"lead reveal\">A Delhi NCR buyer usually enquires with two or three businesses at once. The first one to reply properly often gets the visit, the demo class or the order. Automation makes sure that's you, even at 11 pm on a Sunday.</p><div class=\"tablewrap reveal\"><table><thead><tr><th>Without automation</th><th>With WhatsApp automation</th></tr></thead><tbody><tr><td>Leads wait hours for a call back</td><td>Reply within minutes, every time</td></tr><tr><td>Leads sit in a spreadsheet</td><td>Hot leads routed to your team instantly</td></tr><tr><td>One follow-up, then forgotten</td><td>Polite reminders until they're ready</td></tr><tr><td>Reviews only when someone remembers</td><td>Review request after every job</td></tr></tbody></table></div>"
+    },
+    {
+      "id": "who",
+      "kicker": "Who it's for",
+      "h2": "Built for businesses that live on enquiries.",
+      "html": "<p class=\"lead reveal\">Solar installers, coaching institutes, schools, clinics, real estate brokers, salons, restaurants and D2C brands all use it to stop losing leads. It pairs best with our <a href=\"facebook-instagram-ads-agency-delhi-ncr.html\">Facebook and Instagram ads</a> and <a href=\"google-ads-agency-delhi-ncr.html\">Google Ads</a>, and it's part of every <a href=\"solar-marketing-agency-delhi-ncr.html\">solar marketing</a> campaign we run.</p>"
+    },
+    {
+      "id": "how",
+      "kicker": "How we work",
+      "h2": "Live in about two weeks.",
+      "html": "<ol class=\"steps2\"><li><b>Map your lead journey</b><span>Where leads come from, what they ask and who on your team handles them.</span></li><li><b>Set up the official API</b><span>WhatsApp Business Platform, a verified business profile and approved message templates.</span></li><li><b>Build the flows</b><span>Greetings, qualifying questions, follow-ups, routing and review requests.</span></li><li><b>Connect your lead sources</b><span>Meta lead forms, website forms, Google ads and your CRM or sheet.</span></li><li><b>Test and launch</b><span>We test every path before switching it on, then track reply and conversion rates.</span></li></ol>"
+    }
+  ],
+  "faq_h2": "WhatsApp automation FAQs.",
+  "faqs": [
+    ["Will my WhatsApp number get blocked?", "Using the official WhatsApp Business Platform with approved templates and opted-in contacts keeps you within WhatsApp's rules. Most blocks come from bulk messaging people who never opted in from a regular WhatsApp app, which we don't do."],
+    ["Can I keep using my existing business number?", "Usually yes, but a number moved to the WhatsApp Business Platform can no longer be used in the regular WhatsApp app at the same time. We help you decide whether to move your current number or use a new one."],
+    ["What does WhatsApp charge for messages?", "WhatsApp charges per message for some template messages, and the rates change from time to time. Replies within 24 hours of a customer messaging you are treated differently. We explain the current pricing for your volume before you start."],
+    ["Can it connect to my Facebook lead ads?", "Yes. New Meta lead form submissions can trigger an instant WhatsApp message and land in your CRM or Google Sheet at the same time."],
+    ["Do I still need a sales team?", "Yes. Automation handles the first reply, reminders and routing so your team spends its time on people who are ready to talk."]
+  ],
+  "related": [
+    ["facebook-instagram-ads-agency-delhi-ncr.html", "Service", "Facebook and Instagram ads"],
+    ["solar-marketing-agency-delhi-ncr.html", "Service", "Solar marketing agency"],
+    ["blog/how-to-get-more-google-reviews.html", "Guide", "How to get more Google reviews"]
+  ],
+  "cta_h2": "Stop losing leads to slow replies.",
+  "cta_p": "Tell us where your leads come from and we'll map a WhatsApp automation for your business, free.",
+  "wa_text": "Hi Performance and Pixel, I'd like a free WhatsApp automation plan for my business."
+}

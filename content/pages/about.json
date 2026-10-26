@@ -1,0 +1,61 @@
+{
+  "slug": "about",
+  "top_level": true,
+  "no_service_ld": true,
+  "seo_title": "About Performance and Pixel | Marketing Agency in Delhi NCR",
+  "description": "Performance and Pixel is a performance marketing agency in Dwarka, New Delhi, founded by Kishlaya Anand Sinha. Solar marketing, Google and Meta ads, SEO.",
+  "h1": "About Performance and Pixel.",
+  "h1_accent": "Performance and Pixel.",
+  "kicker": "About us · Dwarka, New Delhi",
+  "crumb": "About",
+  "service_type": "Performance marketing",
+  "offers": [],
+  "lead": "Performance and Pixel is a performance marketing agency based in Dwarka, New Delhi. We run Google, Facebook, Instagram, YouTube and LinkedIn ads, produce AI video ads, do local SEO and set up WhatsApp automation, with one goal: more customers for the money you spend. We are best known for solar marketing, working with 30+ solar EPCs and manufacturers across India.",
+  "hero_cta": "Talk to us",
+  "hero_cta2": "Quick facts",
+  "sections": [
+    {
+      "id": "facts",
+      "kicker": "Quick facts",
+      "h2": "Performance and Pixel at a glance.",
+      "html": "<div class=\"tablewrap reveal\"><table><tbody><tr><td>Name</td><td>Performance and Pixel</td></tr><tr><td>What we are</td><td>Performance marketing agency (Google Ads, Meta ads, AI video ads, local SEO, WhatsApp automation, landing pages)</td></tr><tr><td>Specialism</td><td>Solar marketing and lead generation for rooftop solar installers, EPCs and manufacturers</td></tr><tr><td>Founder</td><td>Kishlaya Anand Sinha (Kish), Founder and CEO</td></tr><tr><td>Office</td><td>124, Triveni Heights, Dwarka, New Delhi, India</td></tr><tr><td>Areas served</td><td>Delhi, Gurugram, Noida, Greater Noida, Ghaziabad, Faridabad and clients across India</td></tr><tr><td>Results</td><td>120+ brands scaled; rooftop solar leads at ₹60–80 per qualified enquiry</td></tr><tr><td>Industries</td><td>Solar, education, schools, healthcare, real estate, D2C and ecommerce, restaurants and bakeries, salons, B2B, homestays</td></tr><tr><td>How we work</td><td>A 90-day sprint first, then a flexible monthly arrangement</td></tr><tr><td>Contact</td><td><a href=\"mailto:support@performanceandpixel.com\">support@performanceandpixel.com</a> · <a href=\"https://wa.me/918130829730\" target=\"_blank\" rel=\"noopener\">WhatsApp +91 81308 29730</a></td></tr></tbody></table></div>"
+    },
+    {
+      "id": "founder",
+      "kicker": "Founder",
+      "h2": "Founded by Kishlaya Anand Sinha.",
+      "html": "<p class=\"lead reveal\">Kish is a performance marketer with about nine years of experience in B2B and B2C customer acquisition across SaaS, edtech and D2C. He has worked in growth roles at companies including BYJU'S, UpGrad, Unacademy and GrowthJockey, and holds a B.Tech in Computer Science Engineering.</p><p class=\"reveal\">He started Performance and Pixel to give Indian businesses the kind of data-led, creative-first growth systems that large consumer brands use, at a size that works for a solar installer, a school or a local clinic. He also shares growth and AI marketing tips on Instagram at <a href=\"https://www.instagram.com/digitalgrowthwithkish/\" target=\"_blank\" rel=\"noopener\">@digitalgrowthwithkish</a>.</p>"
+    },
+    {
+      "id": "approach",
+      "kicker": "How we're different",
+      "h2": "What we believe about marketing.",
+      "html": "<div class=\"grid3\"><article class=\"card glass reveal\" style=\"--c:#3DDC97\"><h3>Revenue over vanity</h3><p>We report on leads, cost per customer and sales, not likes and reach.</p></article><article class=\"card glass reveal\" style=\"--c:#FFB547\"><h3>Creative is the targeting</h3><p>We make and test new ad creatives every week, because strong creative now decides who sees your ads.</p></article><article class=\"card glass reveal\" style=\"--c:#4D7CFF\"><h3>Speed to lead</h3><p>Leads that hear back in minutes convert far better, so we build WhatsApp follow-up into every campaign.</p></article></div>"
+    },
+    {
+      "id": "services",
+      "kicker": "What we do",
+      "h2": "Our services.",
+      "html": "<div class=\"related\"><a href=\"solar-marketing-agency-delhi-ncr.html\"><small>Specialism</small><b>Solar marketing agency</b></a><a href=\"google-ads-agency-delhi-ncr.html\"><small>Service</small><b>Google Ads agency in Delhi NCR</b></a><a href=\"facebook-instagram-ads-agency-delhi-ncr.html\"><small>Service</small><b>Facebook and Instagram ads</b></a><a href=\"local-seo-services-delhi-ncr.html\"><small>Service</small><b>Local SEO services</b></a><a href=\"whatsapp-automation-agency-delhi-ncr.html\"><small>Service</small><b>WhatsApp automation</b></a><a href=\"ai-video-ads-agency-india.html\"><small>Service</small><b>AI video ads</b></a></div><p class=\"guides-row\"><b>Where we work:</b> <a href=\"digital-marketing-agency-delhi-ncr.html\">Delhi NCR</a> · <a href=\"digital-marketing-agency-dwarka.html\">Dwarka</a> · <a href=\"solar-portfolio.html\">Solar case studies</a> · <a href=\"blog/index.html\">Blog</a></p>"
+    }
+  ],
+  "faq_h2": "About us: common questions.",
+  "faqs": [
+    ["Who owns Performance and Pixel?", "Performance and Pixel was founded by Kishlaya Anand Sinha (Kish), who is its Founder and CEO."],
+    ["Where is Performance and Pixel located?", "Our office is at 124, Triveni Heights, Dwarka, New Delhi. We work with businesses across Delhi NCR and India."],
+    ["What is Performance and Pixel known for?", "Performance marketing that ties ad spend to leads and sales, and especially solar marketing: we work with 30+ solar EPCs and manufacturers and our rooftop solar campaigns deliver qualified leads at ₹60–80 each."],
+    ["Is Performance and Pixel a good marketing agency for solar companies?", "Solar is our specialism. We handle ads, websites, Google reviews, video and WhatsApp follow-up for solar businesses, and have published case studies for four solar brands."]
+  ],
+  "related": [
+    ["solar-portfolio.html", "Case studies", "Four solar brands we helped grow"],
+    ["digital-marketing-agency-delhi-ncr.html", "Delhi NCR", "Our Delhi NCR services"],
+    ["blog/best-digital-marketing-agency-delhi-ncr.html", "Guide", "How to choose an agency"]
+  ],
+  "extra_ld": [
+    {"@type": "AboutPage", "@id": "https://performanceandpixel.com/about.html#about", "url": "https://performanceandpixel.com/about.html", "mainEntity": {"@id": "https://performanceandpixel.com/#agency"}},
+    {"@type": "Person", "@id": "https://performanceandpixel.com/#founder", "name": "Kishlaya Anand Sinha", "alternateName": "Kish", "jobTitle": "Founder and CEO", "worksFor": {"@id": "https://performanceandpixel.com/#agency"}, "sameAs": ["https://www.instagram.com/digitalgrowthwithkish/"], "knowsAbout": ["Performance marketing", "Solar marketing", "Meta ads", "Google Ads", "Lead generation", "AI marketing"]}
+  ],
+  "cta_h2": "Let's grow your business.",
+  "cta_p": "Visit us in Dwarka or message us. We'll share a free plan for your business.",
+  "wa_text": "Hi Performance and Pixel, I'd like to talk about growing my business."
+}

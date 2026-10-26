@@ -1,4 +1,26 @@
+# Performance and Pixel - all search engines and AI assistants are welcome.
 User-agent: *
+Allow: /
+Disallow: /content/
+Disallow: /seo/
+Disallow: /tools/
+
+# Search and AI answer engines (explicitly allowed)
+User-agent: Googlebot
+User-agent: Google-Extended
+User-agent: Bingbot
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: DuckDuckBot
+User-agent: YandexBot
 Allow: /
 Disallow: /content/
 Disallow: /seo/

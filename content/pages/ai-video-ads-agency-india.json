@@ -1,0 +1,50 @@
+{
+  "slug": "ai-video-ads-agency-india",
+  "seo_title": "AI Video Ads Agency in India | Performance and Pixel",
+  "description": "AI video ads for Indian brands: UGC-style videos, Reels, product and explainer ads made with AI, tested weekly on Meta and YouTube. Based in Delhi NCR.",
+  "h1": "AI video ads agency in India.",
+  "h1_accent": "India.",
+  "kicker": "AI video ads · Delhi NCR and India",
+  "crumb": "AI video ads",
+  "service_type": "AI video ad production",
+  "areas": ["Delhi", "Gurugram", "Noida", "Greater Noida", "Ghaziabad", "Faridabad"],
+  "offers": ["UGC-style video ads", "Instagram Reels and YouTube Shorts ads", "Product and explainer videos", "Ad scripts and hooks", "Static ad creatives", "Weekly creative testing"],
+  "lead": "On Meta and YouTube, the creative is now the targeting: the ad itself decides who sees it. We use AI to script, produce and edit scroll-stopping video ads fast, so you can test new creatives every week instead of every quarter, at a fraction of a traditional shoot.",
+  "hero_cta": "Get free ad creative ideas",
+  "hero_cta2": "What we make",
+  "sections": [
+    {
+      "id": "make",
+      "kicker": "What we make",
+      "h2": "Ad videos built to sell, not just to look good.",
+      "html": "<div class=\"grid3\"><article class=\"card glass reveal\" style=\"--c:#FF4FB4\"><h3>UGC-style ads</h3><p>Talking-to-camera and testimonial-style videos that feel native in the Reels and Stories feed.</p></article><article class=\"card glass reveal\" style=\"--c:#4D7CFF\"><h3>Product and demo videos</h3><p>Clear product shots, before-and-after and how-it-works videos for D2C and ecommerce.</p></article><article class=\"card glass reveal\" style=\"--c:#FFB547\"><h3>Explainers</h3><p>Short videos that answer the questions buyers ask, like solar savings, course outcomes or treatment steps.</p></article><article class=\"card glass reveal\" style=\"--c:#3DDC97\"><h3>Hooks and scripts</h3><p>Several opening hooks per concept, because the first three seconds decide whether anyone watches.</p></article><article class=\"card glass reveal\" style=\"--c:#9B6BFF\"><h3>Static ads</h3><p>Image ads and carousels that match the video concepts for full placement coverage.</p></article><article class=\"card glass reveal\" style=\"--c:#33D6F2\"><h3>Every format</h3><p>9:16 for Reels and Shorts, 4:5 for feed and 16:9 for YouTube, with captions for silent viewing.</p></article></div>"
+    },
+    {
+      "id": "why",
+      "kicker": "Why AI video",
+      "h2": "More creatives, faster, for less.",
+      "html": "<div class=\"tablewrap reveal\"><table><thead><tr><th></th><th>Traditional shoot</th><th>AI-assisted production</th></tr></thead><tbody><tr><td>Time to first ad</td><td>Weeks of planning and shooting</td><td>Days</td></tr><tr><td>Variations</td><td>A few per shoot</td><td>Many hooks and versions per concept</td></tr><tr><td>Testing</td><td>Same ads run for months</td><td>New creatives tested every week</td></tr><tr><td>Cost</td><td>Crew, location and talent costs</td><td>Much lower cost per variation</td></tr></tbody></table></div><p class=\"reveal\">We still use real footage where it builds trust most, such as real installations for <a href=\"solar-portfolio.html#skynxt\">Skynxt Solar</a>, and use AI to edit, version and scale it.</p>"
+    },
+    {
+      "id": "how",
+      "kicker": "How we work",
+      "h2": "From brief to winning ad.",
+      "html": "<ol class=\"steps2\"><li><b>Research</b><span>We study your buyers, competitors' ads and what's already working in your category.</span></li><li><b>Concepts and scripts</b><span>Angles, hooks and scripts mapped to each stage of the funnel.</span></li><li><b>Production</b><span>AI-assisted video, voice, captions and edits, plus your real footage where it helps.</span></li><li><b>Launch and test</b><span>We run the ads on <a href=\"facebook-instagram-ads-agency-delhi-ncr.html\">Meta</a> and YouTube and compare cost per lead or purchase.</span></li><li><b>Iterate weekly</b><span>Winners get new variations; losers get replaced.</span></li></ol>"
+    }
+  ],
+  "faq_h2": "AI video ads FAQs.",
+  "faqs": [
+    ["Do AI video ads actually perform?", "They can perform as well as shot videos when the script, hook and offer are strong. The biggest advantage is volume: you can test many more ideas, which is how winning ads are found."],
+    ["Will viewers know the ad was made with AI?", "We aim for natural, on-brand videos and mix in real footage, product shots and real customer proof where trust matters. We don't create fake testimonials."],
+    ["Are AI video ads allowed on Facebook and Instagram?", "Yes. Meta allows AI-assisted ads, and some kinds of realistic AI content need to be labelled. We follow the current platform rules for every ad."],
+    ["Do you also run the ads?", "Yes. We make the creatives and run the campaigns, so we can see which videos bring leads or sales and make more like them."]
+  ],
+  "related": [
+    ["facebook-instagram-ads-agency-delhi-ncr.html", "Service", "Facebook and Instagram ads"],
+    ["blog/solar-ad-creative-ideas.html", "Guide", "8 ad ideas for solar companies"],
+    ["blog/d2c-brand-meta-ads-playbook.html", "Guide", "Meta ads playbook for D2C brands"]
+  ],
+  "cta_h2": "Get ads people stop scrolling for.",
+  "cta_p": "Share your product or service and we'll send three free ad concepts with hooks.",
+  "wa_text": "Hi Performance and Pixel, I'd like free AI video ad concepts for my business."
+}
