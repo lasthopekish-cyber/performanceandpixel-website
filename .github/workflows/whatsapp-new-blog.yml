@@ -1,0 +1,33 @@
+name: WhatsApp alert for new blog posts
+
+on:
+  push:
+    branches: [main]
+    paths: ["blog/*.html"]
+  workflow_dispatch:
+    inputs:
+      test:
+        description: "Send a test message"
+        default: "yes"
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Wait for Hostinger to deploy
+        run: sleep 90
+      - name: Send WhatsApp message for each new post
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+          TEST: ${{ github.event.inputs.test }}
+          WA_TO: ${{ secrets.WA_TO }}
+          WA_TOKEN: ${{ secrets.WA_TOKEN }}
+          WA_PHONE_NUMBER_ID: ${{ secrets.WA_PHONE_NUMBER_ID }}
+          WA_TEMPLATE: ${{ secrets.WA_TEMPLATE }}
+          WA_TEMPLATE_LANG: ${{ secrets.WA_TEMPLATE_LANG }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+        run: python3 tools/notify_whatsapp.py
