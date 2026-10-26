@@ -20,7 +20,7 @@ def changed_urls():
                            capture_output=True, text=True, check=True, cwd=ROOT).stdout.split()
     urls = []
     for f in files:
-        if not f.endswith(".html") or f.startswith(("content/", "seo/", "tools/", ".github/")) or f == "404.html":
+        if not f.endswith(".html") or f.startswith(("content/", "seo/", "tools/", ".github/")) or f == "404.html" or re.fullmatch(r"google[0-9a-f]+\.html", f):
             continue
         urls.append(f"https://{HOST}/" if f == "index.html" else f"https://{HOST}/{f}")
     return urls

@@ -22,3 +22,4 @@ The live site for performanceandpixel.com.
 - `tools/sitegen.py` — builds a page or post from a JSON spec in `content/` using the site's own template, and updates `blog/index.html`, `sitemap.xml` and `llms.txt`. Run `python3 tools/sitegen.py check` before every push.
 - `seo/backlinks.csv` — backlink and listing tracker.
 - `content/`, `seo/` and `tools/` are blocked from the web (`.htaccess`) and from crawlers (`robots.txt`).
+- Never delete `googleb897bfaec43fc5e0.html` — it keeps Google Search Console verified.

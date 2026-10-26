@@ -344,7 +344,8 @@ def make_cover(path, labels, accent):
 def check():
     """Validate all pages: one h1, title length, meta description, canonical, valid JSON-LD, local links."""
     problems = 0
-    files = sorted(ROOT.glob("*.html")) + sorted((ROOT / "blog").glob("*.html"))
+    files = [f for f in sorted(ROOT.glob("*.html")) + sorted((ROOT / "blog").glob("*.html"))
+             if not (f.name.startswith("google") and f.parent == ROOT)]
     for f in files:
         h = f.read_text()
         rel = f.relative_to(ROOT)
