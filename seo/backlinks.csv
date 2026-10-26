@@ -1,0 +1,29 @@
+priority,site,type,target_page,anchor_or_listing,action,who,status
+1,Google Business Profile,Local listing (Maps),digital-marketing-agency-dwarka.html,Performance and Pixel - Internet marketing service,"Create/verify profile at 124 Triveni Heights Dwarka; category Internet marketing service + Advertising agency; add services incl. Solar marketing; website link to homepage; 10+ photos; ask 15-20 clients for reviews mentioning service + area",Kish,todo
+1,solarxp.in (client site),Client footer credit,solar-marketing-agency-delhi-ncr.html,Solar marketing by Performance and Pixel,Add footer credit link on client site (you built it),Kish,todo
+1,skynxtech.com (client),Client footer credit / case study,solar-marketing-agency-delhi-ncr.html,Solar marketing partner: Performance and Pixel,Ask client for footer or 'our partners' link,Kish,todo
+1,suhanagroup.com (client),Client footer credit,digital-marketing-agency-delhi-ncr.html,Website and SEO by Performance and Pixel,Add footer credit (you run their website/SEO),Kish,todo
+1,Kiran Growth School website (client),Client footer credit,index.html,Website by Performance and Pixel,Add footer credit on the site you're building,Kish,todo
+1,Other solar clients (RK Solar etc.),Client footer credit / testimonial,solar-marketing-agency-delhi-ncr.html,Solar marketing agency,Ask for a link + Google review of PnP,Kish,todo
+1,LinkedIn company page,Profile link,index.html,Website field,"Update company page website, About text with 'performance marketing agency in Delhi NCR' and 'solar marketing agency'",Kish,todo
+2,Bing Places,Local listing,index.html,NAP listing,Import from Google Business Profile once verified,Kish,todo
+2,JustDial,Local listing,digital-marketing-agency-dwarka.html,Digital marketing agency in Dwarka,Free listing with same name/address/phone as Google,Kish,todo
+2,Sulekha,Local listing,digital-marketing-agency-dwarka.html,Digital marketing services Dwarka,Free business listing,Kish,todo
+2,IndiaMART,B2B listing,solar-marketing-agency-delhi-ncr.html,Solar marketing services,List solar marketing + lead generation as services,Kish,todo
+2,Clutch.co,Agency directory,index.html,Agency profile,Free profile; request 3+ client reviews (verified reviews drive Clutch rankings),Kish,todo
+2,GoodFirms,Agency directory,index.html,Agency profile,Free profile; Dwarka competitors are listed here,Kish,todo
+2,DesignRush,Agency directory,index.html,Agency profile,Free profile; Dwarka competitors are listed here,Kish,todo
+2,TechBehemoths,Agency directory,index.html,Agency profile,Free profile,Kish,todo
+2,Sortlist,Agency directory,index.html,Agency profile,Free profile,Kish,todo
+2,Crunchbase,Company profile,index.html,Company website,Free company profile,Kish,todo
+3,serpwizard.com - 7 best performance marketing agencies in Delhi,Listicle (ranks page 1),index.html,Performance and Pixel,Email editor asking to be included / paid placement,Kish,todo
+3,swcybernetics.in - Top 10 performance marketing agencies Delhi NCR,Listicle (ranks page 1),index.html,Performance and Pixel,Email editor asking to be included / paid placement,Kish,todo
+3,Other 'best agencies in Delhi NCR / Dwarka' listicles,Listicle,index.html,Performance and Pixel,Search 'top digital marketing agencies Dwarka' etc. monthly and pitch each,Kish,todo
+4,Saur Energy International,Solar industry guest article,solar-marketing-agency-delhi-ncr.html,Author bio link,Pitch article: 'How rooftop installers can cut cost per lead to ₹60-80',Kish,todo
+4,SolarQuarter,Solar industry guest article,solar-marketing-agency-delhi-ncr.html,Author bio link,Pitch contributor article on solar digital marketing,Kish,todo
+4,EQ Magazine (EQ International),Solar industry guest article,solar-marketing-agency-delhi-ncr.html,Author bio link,Pitch op-ed on PM Surya Ghar demand and marketing,Kish,todo
+4,pv magazine India,Solar industry op-ed,solar-marketing-agency-delhi-ncr.html,Author bio link,Pitch opinion piece,Kish,todo
+4,Mercom India,Solar industry news/op-ed,solar-marketing-agency-delhi-ncr.html,Author bio link,Pitch opinion piece or company news,Kish,todo
+5,Medium / LinkedIn articles (Kish's profile),Owned content,blog posts,Contextual links,Republish 1 blog a week as a LinkedIn article with a canonical note and links back,Kish,todo
+5,Qwoted / Featured.com,Journalist requests,index.html,Expert quote link,Answer marketing-expert requests 2x a week,Kish,todo
+5,Masters' Union / college workshop pages,Event / speaker page,index.html,Speaker bio link,Ask for a speaker bio link when you run AI workshops,Kish,todo

@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /content/
+Disallow: /seo/
+Disallow: /tools/
 
 Sitemap: https://performanceandpixel.com/sitemap.xml
