@@ -18,7 +18,7 @@ The live site for performanceandpixel.com.
 
 ## SEO and blog automation
 - `content/SEO-PLAYBOOK.md` — target keywords, writing rules and the publish steps.
-- `content/blog-queue.md` — keyword queue. A scheduled task publishes the next post four times a week (Mon, Wed, Fri, Sat).
+- `content/blog-queue.md` — keyword queue. A scheduled task publishes 2 posts every 2 days (9:41 am and 2:41 pm IST, one post per run).
 - `tools/sitegen.py` — builds a page or post from a JSON spec in `content/` using the site's own template, and updates `blog/index.html`, `sitemap.xml` and `llms.txt`. Run `python3 tools/sitegen.py check` before every push.
 - `seo/backlinks.csv` — backlink and listing tracker.
 - `content/`, `seo/` and `tools/` are blocked from the web (`.htaccess`) and from crawlers (`robots.txt`).
