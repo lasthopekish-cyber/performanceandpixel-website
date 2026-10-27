@@ -9,7 +9,7 @@ Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 
 ## Queue
 - [x] best digital marketing agency in delhi ncr | Paid ads | 10-point checklist for choosing an agency → blog/best-digital-marketing-agency-delhi-ncr.html
-- [ ] digital marketing for solar companies in india | Solar | full channel playbook for solar EPCs: GBP, Meta lead ads, Google Search, WhatsApp, SEO
+- [x] digital marketing for solar companies in india | Solar | full channel playbook for solar EPCs: GBP, Meta lead ads, Google Search, WhatsApp, SEO → blog/digital-marketing-solar-companies-india.html
 - [ ] facebook ads for solar installers | Solar | step-by-step Meta lead ad setup with qualifying questions and creative ideas
 - [ ] solar lead generation india | Solar | where solar leads come from, costs by channel, how to qualify them
 - [ ] pm surya ghar subsidy ads | Solar | how installers can use the subsidy in ads and landing pages without misleading claims
