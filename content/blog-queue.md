@@ -12,7 +12,7 @@ Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 - [x] digital marketing for solar companies in india | Solar | full channel playbook for solar EPCs: GBP, Meta lead ads, Google Search, WhatsApp, SEO → blog/digital-marketing-solar-companies-india.html
 - [x] facebook ads for solar installers | Solar | step-by-step Meta lead ad setup with qualifying questions and creative ideas → blog/facebook-ads-for-solar-installers.html
 - [x] solar lead generation india | Solar | where solar leads come from, costs by channel, how to qualify them → blog/solar-lead-generation-india.html
-- [ ] pm surya ghar subsidy ads | Solar | how installers can use the subsidy in ads and landing pages without misleading claims
+- [x] pm surya ghar subsidy ads | Solar | how installers can use the subsidy in ads and landing pages without misleading claims → blog/pm-surya-ghar-subsidy-ads.html
 - [ ] google ads for solar companies | Solar | search keywords, ad copy, location targeting and call tracking for solar
 - [ ] performance marketing agency delhi ncr | Paid ads | what performance marketing is, how it differs from digital marketing, pricing models
 - [ ] google ads agency delhi | Paid ads | what a Google Ads agency should do in the first 30 days
