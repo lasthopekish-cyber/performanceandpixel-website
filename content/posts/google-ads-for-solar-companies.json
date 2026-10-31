@@ -1,0 +1,103 @@
+{
+  "slug": "google-ads-for-solar-companies",
+  "seo_title": "Google Ads for Solar Companies: Keywords, Copy and Tracking",
+  "description": "Google Ads for solar companies in India: campaign structure, keywords and negatives, ad copy, location targeting and call tracking that measures site visits.",
+  "headline": "Google Ads for solar companies: keywords, ad copy, location targeting and call tracking",
+  "card_title": "Google Ads for solar companies",
+  "card_text": "How solar installers and EPCs in India can set up Google Search campaigns that bring buyers, not job seekers: intent-based structure, keyword and negative lists, honest ad copy, tight location targeting and tracking that counts site visits.",
+  "category": "Solar",
+  "kicker": "Solar marketing",
+  "crumb": "Google Ads for solar companies",
+  "date": "2026-10-31",
+  "llms_section": "Guides",
+  "cover_labels": [
+    "Call from search",
+    "Site visit booked"
+  ],
+  "accent": "#2563EB",
+  "intro": "<p>Google Ads for solar companies works very differently from Meta lead ads. On Facebook and Instagram you interrupt homeowners who weren't thinking about solar. On Google you reach people who have already typed \"rooftop solar installer near me\" or \"3 kW solar price in Noida\". They are shopping, so the clicks cost more, but the enquiries are often closer to a decision.</p><p>That intent is wasted if the account is set up loosely. Broad keywords pull in job seekers, students and people looking for the government portal, and a single campaign aimed at all of India spends money in cities your team can't serve. This guide shows solar installers and EPCs how to structure campaigns, choose keywords and negatives, write ads that pre-qualify, target the right areas and track calls and site visits, not just clicks.</p>",
+  "sections": [
+    {
+      "id": "s1",
+      "h2": "When Google Search beats Meta for solar",
+      "html": "<p>Search captures demand that already exists, so it suits buyers who research before they call. In our experience it works best for three groups:</p><ul><li><strong>Homeowners close to buying:</strong> people comparing installers, prices for a specific system size or a \"solar company near me\".</li><li><strong>Commercial and industrial buyers:</strong> factory, warehouse, school and hospital owners rarely respond to a scroll-past video, but they do search for \"commercial rooftop solar\" or \"solar for factory\".</li><li><strong>Housing societies:</strong> RWA committee members searching for options for common-area solar.</li></ul><p>Meta still delivers more residential volume at a lower cost per lead, which is why most solar accounts we run use both. Our comparison of <a href=\"google-ads-vs-facebook-ads-delhi-ncr.html\">Google Ads vs Facebook ads</a> explains how to split the budget between them.</p>"
+    },
+    {
+      "id": "s2",
+      "h2": "How to structure Google Ads for solar companies",
+      "html": "<p>The most common mistake we see in solar accounts is one campaign holding every keyword. Split campaigns by buyer type so each gets its own budget, ads and landing page:</p><div class=\"tablewrap\"><table><thead><tr><th>Campaign</th><th>Example searches</th><th>Send traffic to</th></tr></thead><tbody><tr><td>Residential rooftop</td><td>\"rooftop solar installation dwarka\", \"solar panel for home gurgaon\", \"solar company near me\"</td><td>City page with local installations, reviews and a short form</td></tr><tr><td>Price and system size</td><td>\"3 kw solar system price\", \"5 kw on grid solar cost\"</td><td>Price-range page showing typical cost before and after subsidy</td></tr><tr><td>Subsidy and vendor</td><td>\"pm surya ghar registered vendor\", \"rooftop solar subsidy installer\"</td><td>Subsidy page explaining the process and your registration</td></tr><tr><td>Commercial and industrial</td><td>\"commercial rooftop solar\", \"solar for factory noida\", \"solar epc company\"</td><td>C&amp;I page with project sizes, payback logic and a callback form</td></tr><tr><td>Brand</td><td>Your company name and spelling variations</td><td>Homepage or contact page</td></tr></tbody></table></div><p>Inside each campaign, keep ad groups tight: one theme per group, such as \"installer + city\" or \"price + kW\". The ad can then repeat the searcher's words, which helps click rate and Quality Score.</p>"
+    },
+    {
+      "id": "s3",
+      "h2": "Keywords, match types and negatives",
+      "html": "<p>Start narrow and expand with data. Use phrase and exact match for your core terms, and add broad match only once conversion tracking is reliable and the account has enough conversions for Google's bidding to learn from. Check search volumes and current bids in Keyword Planner for your own cities, because costs vary a lot between metros and smaller towns and change through the year.</p><p>Include the ways people actually search in India: city and locality names (\"solar installer janakpuri\"), system sizes (\"2 kw\", \"10 kw\"), \"on grid\" and \"net metering\", and Hinglish queries such as \"ghar ke liye solar panel\". Review the search terms report weekly for the first two months.</p><p>The negative keyword list matters as much as the keyword list. Starting negatives for most residential solar installers:</p><ul><li><strong>Jobs and learning:</strong> job, vacancy, salary, career, course, training, internship, project report, kya hai</li><li><strong>Products you don't sell:</strong> solar water heater, solar street light, solar lantern, solar fan, solar charger, inverter battery only</li><li><strong>Trade and wholesale:</strong> dealership, distributor, franchise, wholesale, manufacturer, OEM (unless you want trade enquiries)</li><li><strong>Government portal searches:</strong> login, status, apply online, form, registration, helpline, customer care number</li><li><strong>DIY and second-hand:</strong> diy, second hand, used, olx</li></ul><p>The portal negatives are important. People searching \"pm surya ghar status\" want the government website, not an installer, and those clicks rarely turn into leads.</p>"
+    },
+    {
+      "id": "s4",
+      "h2": "Ad copy that filters as well as it sells",
+      "html": "<p>Responsive search ads accept up to 15 headlines of 30 characters and 4 descriptions of 90 characters. Use that space to pre-qualify, so the wrong people don't click:</p><ul><li><strong>Local proof:</strong> \"Rooftop Solar in Dwarka\", \"[Number] Homes Installed in Delhi\" (use your real count)</li><li><strong>Process clarity:</strong> \"Free Site Survey\", \"Net Meter Paperwork Handled\"</li><li><strong>Honest pricing:</strong> \"3 kW Systems From ₹X\", with the price before subsidy</li><li><strong>Subsidy, stated correctly:</strong> \"Registered PM Surya Ghar Vendor\"; at the time of writing the central subsidy is up to ₹78,000 for homes, but check the official portal before you use any figure</li><li><strong>Filters:</strong> \"For Independent Homeowners\", \"Commercial Projects 50 kW+\"</li></ul><p>Avoid \"free solar\", \"zero bill guaranteed\" and anything that suggests you are the government. Since 5 October 2026, Google's Government documents and services policy lets only providers that a government has explicitly authorised advertise official documents or services, and its misleading representation rules apply to every ad. Present yourself as a private installer helping customers use the scheme, and check the current policies before you launch. Our guide to <a href=\"pm-surya-ghar-subsidy-ads.html\">PM Surya Ghar subsidy ads</a> lists safer wording you can adapt.</p><p>Add assets to every campaign: call assets with your number, sitelinks to your installations and subsidy pages, callouts such as \"25-Year Panel Warranty\" (only if it is your warranty), structured snippets for system types, and location assets linked to your Google Business Profile.</p>"
+    },
+    {
+      "id": "s5",
+      "h2": "Location targeting and ad scheduling",
+      "html": "<p>Target only the areas your survey and installation teams can reach within a day. For a Delhi NCR installer that might mean selected districts of Delhi plus Gurugram, Noida and Ghaziabad, or a radius around your office, rather than the whole of India.</p><p>In the campaign's location options, choose \"Presence: people in or regularly in your included locations\". The default setting also shows ads to people who are only interested in a location, which is how a Delhi installer ends up paying for clicks from Chennai. Add excluded locations for areas you can't serve, and check the location report monthly to cut districts that bring clicks but no site visits.</p><p>Schedule ads for the hours someone can answer the phone. If your team works 9 am to 7 pm, either pause ads overnight or switch off call assets outside office hours and let the form collect leads.</p>"
+    },
+    {
+      "id": "s6",
+      "h2": "Call tracking and conversions that count site visits",
+      "html": "<p>Many solar buyers call rather than fill a form, so if you only track form submissions you will undercount what Google is doing and bid on the wrong keywords. Set up tracking in this order:</p><ol><li><strong>Form submissions</strong> on the thank-you page or through Google Tag Manager.</li><li><strong>Calls from ads</strong> through call assets, counted as conversions only when they last longer than a minimum duration, such as 60 seconds.</li><li><strong>Calls from the website</strong> using a Google forwarding number or a call-tracking tool.</li><li><strong>WhatsApp clicks</strong> tracked as a secondary conversion, so you see them without bidding on them.</li><li><strong>Qualified leads and site visits</strong> imported back from your CRM or sheet using offline conversion imports or enhanced conversions for leads.</li></ol><p>Step five is where the real improvement comes from. When Google knows which clicks led to a booked survey, smart bidding can favour the searches that bring buyers, not just enquiries. Our guide to <a href=\"solar-lead-generation-india.html\">solar lead generation in India</a> has a simple scoring system for marking a lead as qualified.</p>"
+    },
+    {
+      "id": "s7",
+      "h2": "Bidding, budget and the first 30 days",
+      "html": "<p>A new solar account has no conversion history, so start simple and let the data build:</p><ol><li><strong>Week 1:</strong> launch residential and brand campaigns with phrase and exact match, a full negative list and Maximise Clicks with a maximum CPC limit, or Maximise Conversions if tracking is already proven.</li><li><strong>Weeks 2–3:</strong> add negatives from the search terms report every few days, pause keywords that spend without leads and test two or three headline angles.</li><li><strong>Week 4:</strong> once you have a steady flow of tracked conversions, move to Maximise Conversions, then to a target CPA set slightly above your actual cost per qualified lead.</li></ol><p>Keep Performance Max for later. Without strong conversion data and good creative assets it tends to spend on placements that look cheap but bring weak leads. Set the budget so each core campaign can get at least ten to fifteen clicks a day at your local CPC; a budget spread too thin teaches Google nothing.</p><p>Judge the account on cost per site visit after 60 to 90 days; results depend on your city, offer and follow-up speed.</p>"
+    },
+    {
+      "id": "s8",
+      "h2": "Making Search part of a full solar pipeline",
+      "html": "<p>Google Search works best alongside Meta lead ads, a well-reviewed Google Business Profile and fast WhatsApp follow-up.</p><p>This is how we run solar accounts for the 30+ solar EPCs and manufacturers we work with. On the residential side, well-run campaigns bring qualified enquiries at ₹60–80 each, and solar clients at scale typically see 20–30 leads a day and 5–10 site visits a week. See the work in our <a href=\"../solar-portfolio.html\">solar case studies</a>, read how our <a href=\"../google-ads-agency-delhi-ncr.html\">Google Ads agency in Delhi NCR</a> sets up tracking, or talk to our <a href=\"../solar-marketing-agency-delhi-ncr.html\">solar marketing agency</a> about a 90-day sprint followed by a flexible arrangement.</p>"
+    }
+  ],
+  "faqs": [
+    [
+      "Are Google Ads worth it for solar companies in India?",
+      "Yes, when the account is set up tightly. Google Search reaches people already looking for an installer or a price, so leads usually cost more than Meta leads but are often closer to buying. Tight location targeting, a strong negative keyword list and call tracking decide whether it pays off."
+    ],
+    [
+      "What keywords should a solar company target on Google Ads?",
+      "Start with high-intent searches that include a service and a place, such as rooftop solar installation plus your city, solar company near me, and system-size price searches like 3 kW solar system price. Add commercial terms if you do C&I projects, and exclude jobs, courses, unrelated solar products and government portal searches."
+    ],
+    [
+      "How much budget do I need for solar Google Ads?",
+      "It depends on your city and the cost per click in Keyword Planner. Aim for enough budget that each core campaign gets at least ten to fifteen clicks a day, and judge results on cost per site visit after 60 to 90 days rather than on the first week."
+    ],
+    [
+      "Can solar installers mention the PM Surya Ghar subsidy in Google Ads?",
+      "Registered vendors can mention the subsidy if the figures are current and accurate and the ad makes clear they are a private company. Avoid claims like free solar or guaranteed approval, don't suggest you are the government, and check Google's current ad policies and the official portal before launching."
+    ],
+    [
+      "Should solar companies use Performance Max?",
+      "Not at the start. Performance Max needs reliable conversion data and good creative assets to find quality leads. Build a working Search account with call and site-visit tracking first, then test Performance Max with a small share of budget."
+    ]
+  ],
+  "related": [
+    [
+      "solar-marketing-agency-delhi-ncr.html",
+      "Service",
+      "Solar marketing agency"
+    ],
+    [
+      "blog/pm-surya-ghar-subsidy-ads.html",
+      "Guide",
+      "PM Surya Ghar subsidy ads"
+    ],
+    [
+      "blog/solar-lead-generation-india.html",
+      "Guide",
+      "Solar lead generation in India"
+    ]
+  ],
+  "cta_h2": "Want Google Ads that bring solar buyers, not job seekers?",
+  "cta_p": "Book a free call. We'll review your current Google Ads account or plan a new one, and share a 90-day plan for search campaigns that bring qualified calls and site visits.",
+  "wa_text": "Hi Performance and Pixel, I read your guide on Google Ads for solar companies and I'd like a free review of my Google Ads setup."
+}
