@@ -16,7 +16,7 @@ Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 - [x] google ads for solar companies | Solar | search keywords, ad copy, location targeting and call tracking for solar → blog/google-ads-for-solar-companies.html
 - [x] performance marketing agency delhi ncr | Paid ads | what performance marketing is, how it differs from digital marketing, pricing models → blog/performance-marketing-agency-delhi-ncr.html
 - [x] google ads agency delhi | Paid ads | what a Google Ads agency should do in the first 30 days → blog/google-ads-agency-delhi.html
-- [ ] meta ads cost in india | Paid ads | realistic CPM, CPC and cost per lead ranges and what changes them
+- [x] meta ads cost in india | Paid ads | realistic CPM, CPC and cost per lead ranges and what changes them → blog/meta-ads-cost-india.html
 - [ ] whatsapp marketing for business india | Paid ads | click-to-WhatsApp ads, auto-replies, broadcast rules and follow-up flows
 - [ ] google business profile optimisation delhi | Local SEO | checklist to rank in the Delhi map pack
 - [ ] local seo for small business dwarka | Local SEO | how Dwarka shops, clinics and coaching centres rank in Maps

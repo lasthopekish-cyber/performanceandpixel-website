@@ -1,0 +1,103 @@
+{
+  "slug": "meta-ads-cost-india",
+  "seo_title": "Meta Ads Cost in India (2026): CPM, CPC and Cost per Lead",
+  "description": "Meta ads cost in India explained: realistic CPM, CPC and cost per lead ranges, GST, starting budgets and what makes Facebook and Instagram ads cheaper.",
+  "headline": "Meta ads cost in India: realistic CPM, CPC and cost per lead (2026)",
+  "card_title": "Meta ads cost in India: CPM, CPC and cost per lead",
+  "card_text": "Typical ranges, what pushes costs up in festive season, GST on your bill and how much budget you need to start.",
+  "category": "Paid ads",
+  "kicker": "Ad costs",
+  "crumb": "Meta ads cost",
+  "date": "2026-11-01",
+  "llms_section": "Guides",
+  "cover_labels": [
+    "Cost per lead down",
+    "New enquiry"
+  ],
+  "accent": "#4C8DFF",
+  "intro": "<p>Meta ads cost in India is one of the first things business owners ask us, and the honest answer is that there's no fixed rate. You can run Facebook and Instagram ads for a few hundred rupees a day, but what you pay for each enquiry depends on your industry, your audience, the season and, most of all, your ads.</p><p>This guide gives you realistic CPM, CPC and cost per lead ranges for India, explains what pushes them up or down, covers GST, and shows how to work out the budget you need before you spend a rupee.</p>",
+  "sections": [
+    {
+      "id": "s1",
+      "h2": "How Meta ads pricing works in India",
+      "html": "<p>Meta doesn't have a price list. Every time someone in your audience opens Facebook or Instagram, advertisers compete in an auction for that ad slot. You set a daily or lifetime budget, and Meta spends it on the people it thinks are most likely to take the action you chose, such as filling a form, sending a WhatsApp message or buying.</p><p>By default, Meta bills most campaigns on impressions, even when the campaign is optimised for leads. That's why three numbers matter more than the budget itself:</p><ul><li><strong>CPM (cost per 1,000 impressions):</strong> what it costs to show your ad. This is driven by competition for your audience.</li><li><strong>CPC (cost per click):</strong> CPM divided by how many people click. Better creatives get cheaper clicks.</li><li><strong>CPL (cost per lead):</strong> what you pay for each enquiry. This is the number that decides whether Meta ads are profitable for you.</li></ul><p>A ₹500 CPM with a great ad can produce cheaper leads than a ₹150 CPM with a weak one. So when you ask what Meta ads cost, the useful answer is always a cost per lead, not a cost per day.</p>"
+    },
+    {
+      "id": "s2",
+      "h2": "Meta ads cost in India: typical CPM, CPC and CPL ranges",
+      "html": "<p>Published benchmark studies for 2026 put most Indian Meta CPMs somewhere between roughly ₹70 and ₹320 per 1,000 impressions, with Instagram usually costing more than Facebook. Average clicks in India are commonly reported at around ₹30–40. Treat these as a starting point, not a promise: your own account can sit well outside these ranges.</p><div class=\"tablewrap\"><table><thead><tr><th>Metric</th><th>What it usually looks like in India</th><th>What moves it most</th></tr></thead><tbody><tr><td>CPM</td><td>Roughly ₹70–320, higher in October to December</td><td>Audience competition, season, placement</td></tr><tr><td>CPC (link click)</td><td>Commonly reported at around ₹30–40 on average</td><td>Creative quality and offer</td></tr><tr><td>CTR</td><td>India benchmarks report about 3.7% for all clicks; link clicks are lower</td><td>Hook in the first second, relevance</td></tr><tr><td>CPL</td><td>From under ₹100 to several thousand rupees</td><td>Industry, ticket size, form questions</td></tr></tbody></table></div><p>Cost per lead varies the most because it depends on what you sell. A low-ticket local offer can bring enquiries for well under ₹100. High-ticket purchases such as property, B2B services or premium education cost far more per lead, because fewer people are ready to enquire. For reference, our rooftop solar campaigns run at ₹60–80 per qualified enquiry when they're working well, and clients at scale typically get 20–30 leads a day.</p>"
+    },
+    {
+      "id": "s3",
+      "h2": "What makes Meta ads more expensive (or cheaper)",
+      "html": "<ul><li><strong>Season.</strong> Festive and year-end months push CPMs up as big brands spend heavily. Analyses of Indian accounts report CPMs 25% to 50% above average between October and December. Wedding season and big sale events can also raise costs.</li><li><strong>Audience size.</strong> Very narrow targeting, like one pin code plus three interests, often costs more because the auction has fewer people to choose from. Broad targeting with a clear creative usually finds cheaper leads.</li><li><strong>City and competition.</strong> Metro audiences in Delhi NCR, Mumbai and Bengaluru attract more advertisers than smaller towns, so the same ad can cost more to show in Gurugram than in a smaller city.</li><li><strong>Creative.</strong> Meta rewards ads people stop and watch. A tired creative running for weeks gets more expensive as frequency rises.</li><li><strong>Objective.</strong> Awareness campaigns buy cheap impressions; lead and sales campaigns pay more per impression but target people more likely to act.</li><li><strong>Form type.</strong> Instant forms with no questions bring cheap but weak leads. Adding qualifying questions raises CPL and usually lowers cost per customer.</li></ul>"
+    },
+    {
+      "id": "s4",
+      "h2": "GST and what actually shows on your bill",
+      "html": "<p>Advertising services attract 18% GST in India, and Meta ads are no exception. How it appears depends on how your account is billed: if you're invoiced by Meta's Indian entity, GST is charged on the invoice; if you're billed from abroad against your GSTIN, you may need to pay it yourself under reverse charge. Either way, plan for it on top of your ad budget.</p><p>If your business is GST registered, add your GSTIN in your Meta billing settings so invoices carry your details. Advertising is generally eligible for input tax credit, but the rules change, so confirm your situation with your CA before you launch.</p><p>Also separate the two costs an agency bill should show: the ad spend that goes to Meta, and the management fee for running the campaigns. If an agency quotes one combined number, ask for the split.</p>"
+    },
+    {
+      "id": "s5",
+      "h2": "How much budget you need to start",
+      "html": "<p>Meta's technical minimum daily budget is small, but tiny budgets rarely give Meta enough data to learn. An ad set usually needs around 50 results in a week to leave the learning phase, so check Meta's current guidance and work backwards from your expected cost per lead.</p><p>A simple formula: <strong>daily budget = (results you need per week ÷ 7) × expected cost per lead</strong>.</p><div class=\"tablewrap\"><table><thead><tr><th>Expected CPL</th><th>Daily budget for about 50 leads a week</th><th>Monthly ad spend (approx.)</th></tr></thead><tbody><tr><td>₹80</td><td>About ₹570</td><td>About ₹17,000</td></tr><tr><td>₹200</td><td>About ₹1,430</td><td>About ₹43,000</td></tr><tr><td>₹500</td><td>About ₹3,570</td><td>About ₹1,07,000</td></tr><tr><td>₹1,000</td><td>About ₹7,140</td><td>About ₹2,14,000</td></tr></tbody></table></div><p>These figures exclude GST. If the budget for your expected CPL feels too high, start with one campaign and one ad set rather than splitting a small budget across many. A smaller budget can still work; Meta just takes longer to settle, so judge it over two to four weeks, not two days.</p>"
+    },
+    {
+      "id": "s6",
+      "h2": "Estimate your cost per lead before you spend",
+      "html": "<p>You can sanity-check a campaign with three numbers. Cost per lead is roughly CPM ÷ 1,000 ÷ click-through rate ÷ landing page or form conversion rate.</p><ol><li><strong>Example:</strong> a ₹200 CPM, a 1.5% CTR and a 10% form conversion rate gives ₹200 ÷ 1,000 ÷ 0.015 ÷ 0.10 ≈ ₹133 per lead.</li><li><strong>Improve the creative</strong> to a 2.5% CTR and the same maths gives about ₹80 per lead.</li><li><strong>Now work out cost per customer.</strong> If one in ten leads buys, ₹80 per lead means ₹800 per customer. Compare that with what one customer is worth to you.</li></ol><p>This is why the creative and the form matter as much as the budget. If the maths doesn't work at realistic numbers, more money won't fix it; a better offer or a different channel might.</p>"
+    },
+    {
+      "id": "s7",
+      "h2": "How to lower Meta ads cost without losing lead quality",
+      "html": "<ul><li><strong>Test 5 to 10 creatives at a time</strong> and refresh winners every few weeks. Short vertical videos with a clear first line usually beat polished brand films.</li><li><strong>Keep targeting broad</strong> within your service area and let the creative do the filtering.</li><li><strong>Add one or two qualifying questions</strong> to lead forms, such as budget, timeline or location. You'll pay a little more per lead and waste far less sales time.</li><li><strong>Reply within minutes.</strong> A fast WhatsApp auto-reply and call-back turn more of the same leads into customers, which lowers your real cost per customer.</li><li><strong>Track beyond the form.</strong> Send lead quality and sales back to Meta through the Conversions API so the algorithm learns which leads actually buy.</li><li><strong>Plan around peak season.</strong> If your product isn't festive, consider spending less in the most expensive weeks and more in quieter months.</li></ul><p>Our <a href=\"facebook-ads-for-solar-installers.html\">Facebook ads setup for solar installers</a> shows these steps in a real industry, from form questions to follow-up.</p>"
+    },
+    {
+      "id": "s8",
+      "h2": "When Meta ads are the wrong choice",
+      "html": "<p>Meta is best at creating demand: showing an offer to people who weren't searching yet. If your customers search when they need you, such as emergency repairs or specific medical treatments, Google Ads or local SEO may bring cheaper, more ready-to-buy enquiries. Read our <a href=\"google-ads-vs-facebook-ads-delhi-ncr.html\">Google Ads vs Facebook ads comparison</a> to decide where to start, and look at <a href=\"../local-seo-services-delhi-ncr.html\">local SEO in Delhi NCR</a> if most of your customers come from nearby.</p><p>If you'd rather have a team set this up, our <a href=\"../facebook-instagram-ads-agency-delhi-ncr.html\">Facebook and Instagram ads agency</a> in Dwarka runs Meta campaigns for businesses across Delhi NCR and India, starting with a 90-day sprint.</p>"
+    }
+  ],
+  "faqs": [
+    [
+      "What is the minimum budget for Meta ads in India?",
+      "Meta lets you start with a very small daily budget, but for lead campaigns most businesses need enough to get about 50 results a week per ad set. Multiply your expected cost per lead by about 7 to get a sensible daily budget, then add 18% GST."
+    ],
+    [
+      "What is the average cost per lead on Facebook ads in India?",
+      "It ranges from under ₹100 for low-ticket local offers to several thousand rupees for property, B2B and premium services. Your offer, creative and form questions decide where you land. Our rooftop solar campaigns run at ₹60–80 per qualified enquiry."
+    ],
+    [
+      "Are Instagram ads more expensive than Facebook ads in India?",
+      "Instagram placements often have a higher CPM than Facebook, but they can still give a lower cost per lead for younger or visual audiences. Running both placements and letting Meta choose is usually the best starting point."
+    ],
+    [
+      "Is GST charged on Facebook and Instagram ads in India?",
+      "Yes. Advertising services attract 18% GST. It is either charged on the invoice or paid by you under reverse charge, depending on how your account is billed. GST-registered businesses can usually claim input tax credit; check with your CA."
+    ],
+    [
+      "Why are my Meta ads more expensive in October and November?",
+      "Festive and year-end months bring heavy brand spending, so competition for the same audience rises. CPMs in India are commonly reported 25% to 50% above average from October to December."
+    ]
+  ],
+  "related": [
+    [
+      "facebook-instagram-ads-agency-delhi-ncr.html",
+      "Service",
+      "Facebook and Instagram ads agency"
+    ],
+    [
+      "blog/google-ads-vs-facebook-ads-delhi-ncr.html",
+      "Guide",
+      "Google Ads vs Facebook ads"
+    ],
+    [
+      "blog/d2c-brand-meta-ads-playbook.html",
+      "Guide",
+      "Meta ads playbook for D2C brands"
+    ]
+  ],
+  "cta_h2": "Want a cost per lead you can plan around?",
+  "cta_p": "Book a free call. We'll estimate your Meta ads budget and cost per lead, and share a 90-day plan.",
+  "wa_text": "Hi Performance and Pixel, I read your Meta ads cost guide and I'd like an estimate for my business."
+}
