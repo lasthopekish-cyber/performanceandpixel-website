@@ -15,7 +15,7 @@ Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 - [x] pm surya ghar subsidy ads | Solar | how installers can use the subsidy in ads and landing pages without misleading claims → blog/pm-surya-ghar-subsidy-ads.html
 - [x] google ads for solar companies | Solar | search keywords, ad copy, location targeting and call tracking for solar → blog/google-ads-for-solar-companies.html
 - [x] performance marketing agency delhi ncr | Paid ads | what performance marketing is, how it differs from digital marketing, pricing models → blog/performance-marketing-agency-delhi-ncr.html
-- [ ] google ads agency delhi | Paid ads | what a Google Ads agency should do in the first 30 days
+- [x] google ads agency delhi | Paid ads | what a Google Ads agency should do in the first 30 days → blog/google-ads-agency-delhi.html
 - [ ] meta ads cost in india | Paid ads | realistic CPM, CPC and cost per lead ranges and what changes them
 - [ ] whatsapp marketing for business india | Paid ads | click-to-WhatsApp ads, auto-replies, broadcast rules and follow-up flows
 - [ ] google business profile optimisation delhi | Local SEO | checklist to rank in the Delhi map pack

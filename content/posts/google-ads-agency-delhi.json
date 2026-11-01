@@ -1,0 +1,99 @@
+{
+ "slug": "google-ads-agency-delhi",
+ "seo_title": "Google Ads Agency in Delhi: The First 30 Days Explained",
+ "description": "What a Google Ads agency in Delhi should do in the first 30 days: account ownership, tracking, keywords, launch, search terms and an honest first report.",
+ "headline": "Google Ads agency in Delhi: what a good one should do in the first 30 days",
+ "card_title": "Google Ads agency in Delhi: the first 30 days",
+ "card_text": "A week-by-week plan for ownership, tracking, keywords, launch and the first report, plus the warning signs to watch for.",
+ "category": "Paid ads",
+ "kicker": "Google Ads",
+ "crumb": "Google Ads first 30 days",
+ "date": "2026-11-01",
+ "llms_section": "Guides",
+ "cover_labels": [
+  "Tracking verified",
+  "First call lead"
+ ],
+ "accent": "#4C8DFF",
+ "intro": "<p>Most lists of the best Google Ads agency in Delhi tell you who to hire. Very few tell you what that agency should actually do once you sign. Yet the first 30 days decide most of what follows: who owns the account, whether leads are tracked properly, and whether your budget reaches people in Delhi NCR who are ready to buy.</p><p>This guide walks through a realistic first month, week by week, so you know what to ask for, what you should receive and which warning signs mean the account is being set up badly. It works whether you are hiring your first agency or replacing one.</p>",
+ "sections": [
+  {
+   "id": "s1",
+   "h2": "Before day 1: what you should hand over, and what you should keep",
+   "html": "<p>A good start begins with ownership. The Google Ads account, the Google Analytics 4 property and the Google Tag Manager container should be created in your business's name, with your own Google account as an admin. The agency is then added as a user or linked through its manager account. If an agency offers to run ads from an account it owns, ask what happens to the account history, conversion data and audiences if you part ways. Usually the answer is that you lose them.</p><p>Before the kick-off call, have these ready:</p><ul><li>Admin or standard access to Google Ads, GA4, Tag Manager and Google Business Profile. Google Ads offers several access levels (admin, standard, read only, billing and email only); give the agency what it needs to manage campaigns, and keep at least one admin login inside your company.</li><li>Billing set up in your company name with your GSTIN, so invoices come to you. Google adds GST to ad spend in India, so check the current rate on your invoice when you plan the budget.</li><li>A list of the services and areas that make you the most money, and the ones you don't want enquiries for.</li><li>Rough numbers: how many enquiries you get today, how many turn into customers and what an average customer is worth.</li></ul>"
+  },
+  {
+   "id": "s2",
+   "h2": "Week 1: audit and tracking before any new spend",
+   "html": "<p>The first week of a Google Ads agency in Delhi should be mostly invisible work. If you already have an account, the agency should review the last 90 days of search terms, wasted spend, campaign settings, location targeting and conversion actions, and tell you plainly what was working and what wasn't. A common finding in local accounts is a campaign set to show ads to people \"interested in\" Delhi rather than people actually in Delhi, which sends budget to searchers across India.</p><p>Then comes tracking, which decides how well every later rupee is spent:</p><ol><li><strong>Form submissions</strong> tracked as conversions, firing only on a real thank-you page or confirmed submit, not on page load.</li><li><strong>Calls</strong> from ads and from the website, with a minimum call length so wrong numbers and two-second calls don't count.</li><li><strong>WhatsApp clicks</strong> tracked separately, because many Delhi NCR customers prefer to message rather than fill a form.</li><li><strong>Consent and enhanced conversions</strong> checked against Google's current requirements, so conversion data is as complete as the rules allow.</li></ol><p>By the end of week one you should get a short written audit and a test lead that shows up correctly in the account. If the agency wants to launch big campaigns before tracking is proven, that's a warning sign.</p>"
+  },
+  {
+   "id": "s3",
+   "h2": "Week 2: keyword research and campaign structure for Delhi NCR",
+   "html": "<p>Week two turns your business list into a campaign plan. Good keyword research for Delhi NCR goes beyond the city name. People search by locality and by need: \"dentist near Dwarka Sector 12\", \"IELTS coaching in Laxmi Nagar\", \"solar panel installation in Noida\". The agency should group these into tightly themed ad groups, so each ad and landing page matches what the searcher typed.</p><div class=\"tablewrap\"><table><thead><tr><th>Decision</th><th>What a good plan includes</th></tr></thead><tbody><tr><td>Campaign type</td><td>Search first for most local service businesses; Performance Max or YouTube only once conversions are tracked reliably</td></tr><tr><td>Locations</td><td>Only the cities, localities or radius you actually serve, set to people located there</td></tr><tr><td>Keywords</td><td>High-intent service + location terms, grouped by service</td></tr><tr><td>Negative keywords</td><td>Jobs, free, course, salary, DIY, competitor brands you don't want, areas you don't serve</td></tr><tr><td>Schedule</td><td>Ads shown when someone can answer the phone, if calls matter</td></tr><tr><td>Budget split</td><td>More budget on the services with the best margin, not spread evenly</td></tr></tbody></table></div><p>Ask to see this plan in writing before launch. It should be simple enough that you can explain it back to the agency in two minutes.</p>"
+  },
+  {
+   "id": "s4",
+   "h2": "Week 2 to 3: ads, assets and landing pages",
+   "html": "<p>Ad copy should answer the questions a Delhi NCR customer is actually weighing: price range, how fast you can come, which areas you cover, why to trust you. Responsive search ads let the agency write many headlines and descriptions, and Google tests the combinations. The agency should also set up assets: call, location (linked to your Google Business Profile), sitelinks to your key services, and callouts such as \"Free site survey\" or \"Same-day appointment\" only if they are true.</p><p>The landing page often matters more than the ad. A fast, mobile-first page that repeats the searcher's need, shows proof and asks for a phone number in one tap will usually lower cost per lead more than any bid change. If your website is slow or generic, expect the agency to recommend a dedicated landing page for each main service. Our <a href=\"../google-ads-agency-delhi-ncr.html\">Google Ads agency service</a> includes these pages for this reason.</p>"
+  },
+  {
+   "id": "s5",
+   "h2": "Week 3: launch, then watch search terms daily",
+   "html": "<p>Launch should be controlled, not a big bang. Most agencies start with manual or simple automated bidding such as maximise clicks with a cap, or maximise conversions, and a daily budget large enough to get meaningful data in your category. Smart Bidding strategies like target CPA need conversion history to work well, and Google notes a learning period after a new strategy or a big change, so switching strategies every few days only resets the learning.</p><p>In the first ten days after launch, the most valuable job is reading the search terms report. This is where you find the people who searched for \"solar panel job in Gurgaon\" or \"free dental check up camp\" and clicked your ad. Each irrelevant term becomes a negative keyword. A careful agency does this daily at first, then weekly once the list stabilises.</p><p>You should also start calling back every lead within minutes. A Google lead called the next day is far less likely to convert, and no agency can fix slow follow-up from inside the ad account.</p>"
+  },
+  {
+   "id": "s6",
+   "h2": "Week 4: first optimisation and an honest 30-day report",
+   "html": "<p>By day 30 you should receive a report in plain language, not a dump of impressions and click-through rates. It should cover:</p><ul><li>Spend, leads and cost per lead, split by campaign and by lead type (form, call, WhatsApp).</li><li>Lead quality: how many were real enquiries, how many were spam or out of area, based on what your team reports back.</li><li>What was changed this month: negative keywords added, ads paused, budgets moved, pages edited.</li><li>What happens next month, with one or two clear tests.</li></ul><p>Be realistic about what 30 days can show. Search campaigns usually start producing enquiries within the first one to two weeks, but reaching your best cost per lead typically takes 30 to 90 days of testing. That is why we work on a 90-day sprint before moving to a flexible arrangement. An agency that promises a fixed number of leads or guaranteed ROI in month one is guessing.</p>"
+  },
+  {
+   "id": "s7",
+   "h2": "How to judge a Google Ads agency in Delhi after the first month",
+   "html": "<p>After 30 days you can tell a lot about an agency from how it worked, even before results settle. Use this quick check:</p><div class=\"tablewrap\"><table><thead><tr><th>Good sign</th><th>Warning sign</th></tr></thead><tbody><tr><td>You own the account and have admin access</td><td>Account is in the agency's name</td></tr><tr><td>Conversions tested and explained</td><td>Reports show clicks but no leads tracked</td></tr><tr><td>Location set to people in your area</td><td>Enquiries from cities you don't serve</td></tr><tr><td>Long negative keyword list, growing weekly</td><td>Same irrelevant searches still getting clicks</td></tr><tr><td>Report explains what changed and why</td><td>Same template every month, no changes listed</td></tr><tr><td>Asks you about lead quality and sales</td><td>Never asks which leads became customers</td></tr></tbody></table></div><p>If you are still choosing between agencies, our <a href=\"best-digital-marketing-agency-delhi-ncr.html\">checklist for choosing an agency in Delhi NCR</a> has the questions to ask on the first call. If you are not sure Google is the right first channel at all, read <a href=\"google-ads-vs-facebook-ads-delhi-ncr.html\">Google Ads vs Facebook ads for Delhi NCR businesses</a>. And because Google Ads and Maps work together, a well-kept profile from our <a href=\"../local-seo-services-delhi-ncr.html\">local SEO services</a> makes location assets and call ads work harder.</p>"
+  }
+ ],
+ "faqs": [
+  [
+   "How much does a Google Ads agency in Delhi charge?",
+   "Most agencies charge a fixed monthly management fee, a percentage of ad spend, or a mix of both, and the ad budget is paid to Google separately with GST added. Ask for the fee and the recommended ad budget in writing, and check whether landing pages and tracking setup are included."
+  ],
+  [
+   "How long does it take for Google Ads to give leads?",
+   "Search campaigns usually start bringing enquiries within the first one to two weeks after launch, once tracking is in place. Getting to a stable, lower cost per lead typically takes 30 to 90 days of testing keywords, ads and landing pages."
+  ],
+  [
+   "Should the Google Ads account be in my name or the agency's?",
+   "It should be in your business's name, with your own login as admin and the agency added as a user or through its manager account. That way you keep the account history, conversion data and audiences if you ever change agencies."
+  ],
+  [
+   "What should a Google Ads agency report every month?",
+   "At minimum: spend, leads and cost per lead by campaign, a split of form, call and WhatsApp leads, notes on lead quality, the changes made that month and the tests planned for next month."
+  ]
+ ],
+ "related": [
+  [
+   "google-ads-agency-delhi-ncr.html",
+   "Service",
+   "Google Ads agency in Delhi NCR"
+  ],
+  [
+   "digital-marketing-agency-delhi-ncr.html",
+   "Service",
+   "Digital marketing agency in Delhi NCR"
+  ],
+  [
+   "blog/google-ads-vs-facebook-ads-delhi-ncr.html",
+   "Guide",
+   "Google Ads vs Facebook ads"
+  ],
+  [
+   "blog/performance-marketing-agency-delhi-ncr.html",
+   "Guide",
+   "Performance marketing agency pricing"
+  ]
+ ],
+ "cta_h2": "Get a free 30-day plan for your Google Ads.",
+ "cta_p": "Send us your website or account access. We'll audit your tracking, searches and wasted spend and share a 90-day plan with a target cost per lead.",
+ "wa_text": "Hi Performance and Pixel, I read your Google Ads first 30 days guide and I'd like a free audit."
+}
