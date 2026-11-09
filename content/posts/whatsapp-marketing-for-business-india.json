@@ -1,0 +1,98 @@
+{
+  "slug": "whatsapp-marketing-for-business-india",
+  "seo_title": "WhatsApp Marketing for Business in India: 2026 Guide",
+  "description": "WhatsApp marketing for business in India: click-to-WhatsApp ads, auto-replies, broadcast rules, message costs and follow-up flows that turn chats into sales.",
+  "headline": "WhatsApp marketing for business in India: ads, auto-replies, broadcasts and follow-up",
+  "card_title": "WhatsApp marketing for business in India",
+  "card_text": "Click-to-WhatsApp ads, instant replies, broadcast rules, what each message costs and the follow-up flow that turns chats into customers.",
+  "category": "Paid ads",
+  "kicker": "WhatsApp marketing",
+  "crumb": "WhatsApp marketing",
+  "date": "2026-11-09",
+  "llms_section": "Guides",
+  "cover_labels": [
+    "New chat enquiry",
+    "Follow-up sent"
+  ],
+  "accent": "#25D366",
+  "intro": "<p>WhatsApp marketing for business in India works because your customers already live in the app. A parent comparing coaching centres, a homeowner asking about rooftop solar or a bride booking a salon package would rather send a quick message than fill a long form or wait on hold. The businesses that win on WhatsApp aren't the ones sending the most messages; they're the ones that reply first and follow up properly.</p><p>This guide covers the four parts that matter: click-to-WhatsApp ads to start conversations, auto-replies so no enquiry waits, broadcast and messaging rules so your number stays healthy, and follow-up flows that turn chats into site visits, appointments and orders. We've also included what messages cost on the WhatsApp Business Platform right now, so you can plan a budget.</p>",
+  "sections": [
+    {
+      "id": "s1",
+      "h2": "WhatsApp Business app or WhatsApp Business API: which one you need",
+      "html": "<p>There are two ways to use WhatsApp for business, and picking the wrong one causes most of the problems we see.</p><div class=\"tablewrap\"><table><thead><tr><th></th><th>WhatsApp Business app</th><th>WhatsApp Business Platform (API)</th></tr></thead><tbody><tr><td>Cost</td><td>Free app</td><td>Per-message charges from Meta, plus a provider or software fee</td></tr><tr><td>Users</td><td>One phone plus a few linked devices</td><td>A whole team on a shared inbox or CRM</td></tr><tr><td>Broadcasts</td><td>Lists of up to 256 contacts, delivered only to people who saved your number</td><td>Approved templates sent to opted-in contacts, with daily limits that grow as quality stays high</td></tr><tr><td>Automation</td><td>Greeting, away message and quick replies</td><td>Chatbots, lead routing, CRM sync, reminders and payment links</td></tr><tr><td>Best for</td><td>Small shops and solo professionals with a few chats a day</td><td>Businesses running ads, handling dozens of leads a day or needing more than one person on chat</td></tr></tbody></table></div><p>A simple rule: if you're about to send ad traffic to WhatsApp, or more than one person answers chats, move to the API. Either way, never use unofficial bulk-sending tools that work through a normal phone number. They break WhatsApp's terms and are a common reason numbers get banned.</p>"
+    },
+    {
+      "id": "s2",
+      "h2": "Click-to-WhatsApp ads: the fastest way to start conversations",
+      "html": "<p>Click-to-WhatsApp ads are Facebook and Instagram ads with a \"Send message\" button that opens a chat with your business. For many Indian businesses they bring fewer enquiries than lead forms, but warmer ones, because the person had to type or send a message to you.</p><ol><li><strong>Connect your number.</strong> Link your WhatsApp Business account to the same Meta Business portfolio as your ad account.</li><li><strong>Pick the right objective.</strong> Use Leads, Sales or Engagement with WhatsApp as the conversion location, so Meta looks for people likely to start a chat rather than people who just click.</li><li><strong>Write a pre-filled message.</strong> Something like \"Hi, I want a quote for a 3 kW rooftop system in Dwarka\" tells your team what the person wants before anyone replies.</li><li><strong>Target your real service area.</strong> Use a radius or the cities you actually serve, such as Delhi, Gurugram, Noida or Faridabad, and let the creative do the filtering.</li><li><strong>Judge on cost per qualified chat.</strong> Track how many chats turn into a call, a site visit or an order.</li></ol><p>There's also a cost benefit. When someone starts a chat from a click-to-WhatsApp ad and you reply in time, Meta opens a free entry point window during which your messages to that person aren't charged. Meta's current documentation says this window can stay open for several days, so check the latest pricing page before you build your follow-up timing around it. Our guide to <a href=\"meta-ads-cost-india.html\">Meta ads cost in India</a> explains how to budget the ad spend itself.</p>"
+    },
+    {
+      "id": "s3",
+      "h2": "Auto-replies that answer in seconds, not hours",
+      "html": "<p>Speed decides who gets the customer. Someone who messages three businesses at 9 pm usually goes with whoever answers first. An auto-reply holds the conversation until a person takes over.</p><p>A good first reply does three things:</p><ul><li><strong>Confirms you got the message</strong> and says when a person will respond, for example \"Our team will call you within 15 minutes between 10 am and 7 pm\".</li><li><strong>Asks one or two qualifying questions</strong> with quick-reply buttons: location, budget, timeline or the service they want.</li><li><strong>Offers the next step:</strong> book a call, see prices, view work samples or share a location for a site visit.</li></ul><p>For a clinic, that might mean buttons for \"Book appointment\", \"Treatment cost\" and \"Clinic location\". Keep the bot short, and hand anyone who types a real question to a person. On the API, route each enquiry to the right team member and log it in your CRM.</p>"
+    },
+    {
+      "id": "s4",
+      "h2": "Broadcast rules: opt-in, templates and messaging limits",
+      "html": "<p>Broadcasts are where most businesses get into trouble.</p><ul><li><strong>Get opt-in.</strong> WhatsApp requires people to agree to receive messages from you. Ask clearly, for example with a \"Yes, send me offers\" button or a checkbox on your website form, and keep a record of when they agreed. India's data protection law also expects clear consent for using personal data, so ask your CA or lawyer how it applies to your business.</li><li><strong>Use approved templates.</strong> On the API, any message you send outside an open conversation must be a template that Meta has approved and put in a category: marketing, utility or authentication. Order updates and appointment reminders are utility; offers and announcements are marketing.</li><li><strong>Respect messaging limits.</strong> New numbers can only start conversations with a limited number of unique people in 24 hours. The limit rises as you verify your business and keep message quality high. Meta can also hold back marketing messages to people who have received a lot of them recently.</li><li><strong>Watch your quality rating.</strong> If many people block or report you, your limits shrink and your number can be restricted. Send fewer, more relevant messages to people who asked for them.</li></ul><p>Build your list from your own customers and enquiries; never buy a database of numbers.</p>"
+    },
+    {
+      "id": "s5",
+      "h2": "What WhatsApp marketing costs in India",
+      "html": "<p>Since July 2025, Meta charges per delivered message on the WhatsApp Business Platform, with rates set by message category and the recipient's country. India has its own rate card, and Meta can change rates at the start of any quarter, so check the current figures before you budget.</p><div class=\"tablewrap\"><table><thead><tr><th>Message type</th><th>Example</th><th>How it's charged in India (late 2026)</th></tr></thead><tbody><tr><td>Marketing template</td><td>Festive offer, new batch announcement</td><td>The most expensive category, a little under ₹1 per delivered message before GST</td></tr><tr><td>Utility template</td><td>Appointment reminder, order update</td><td>Much cheaper than marketing, and free when sent inside an open customer service window</td></tr><tr><td>Authentication</td><td>One-time passwords</td><td>Similar to utility rates</td></tr><tr><td>Service reply</td><td>Replying within 24 hours of the customer's message</td><td>Each number gets 1,000 free service messages a month; beyond that, Meta started charging from October 2026</td></tr><tr><td>Free entry point</td><td>Replies to someone who came from a click-to-WhatsApp ad</td><td>Free while the window is open</td></tr></tbody></table></div><p>Add 18% GST to Meta's charges, plus your provider's monthly fee for the inbox, chatbot or CRM. For most businesses, the bigger costs are the ads that start conversations and the people who answer them. The useful number to track is cost per customer: ad spend plus message costs, divided by how many chats became paying customers.</p>"
+    },
+    {
+      "id": "s6",
+      "h2": "A follow-up flow that turns chats into customers",
+      "html": "<p>Most enquiries don't buy on the first message. Here's a follow-up structure we adapt for each industry:</p><ol><li><strong>Minute 0:</strong> auto-reply with qualifying buttons.</li><li><strong>Within 15 minutes:</strong> a person calls or sends a voice note. If they don't pick up, send a short message with a time slot to call back.</li><li><strong>Same day:</strong> share something useful, such as a price range, a short video of past work or a brochure, plus one clear next step.</li><li><strong>Day 1 or 2:</strong> a gentle reminder that answers a common worry: \"Most families ask about EMI options, here's how it works\".</li><li><strong>Day 5 to 7:</strong> a final check-in. If they're not ready, ask whether they'd like occasional updates and record the answer.</li><li><strong>After the sale:</strong> utility messages for confirmations and reminders, then a request for a Google review once the job is done.</li></ol><p>That last step matters more than most businesses think. Reviews help your Maps ranking and make your next ad more convincing. Our guide on <a href=\"how-to-get-more-google-reviews.html\">how to get more Google reviews</a> has message templates you can send on WhatsApp. For solar installers, this kind of fast follow-up is a big part of how our campaigns reach ₹60–80 per qualified enquiry and 5–10 site visits a week at scale.</p>"
+    },
+    {
+      "id": "s7",
+      "h2": "Ideas by industry and mistakes to avoid",
+      "html": "<ul><li><strong>Solar:</strong> ads asking for the monthly electricity bill, then an estimate and a site visit slot.</li><li><strong>Coaching and schools:</strong> demo-class booking and batch reminders for parents who opted in.</li><li><strong>Clinics:</strong> appointment booking and reminders the day before.</li><li><strong>Restaurants and bakeries:</strong> direct orders and festive pre-orders from a WhatsApp catalogue.</li><li><strong>Real estate and salons:</strong> site visit or appointment scheduling, plus seasonal packages.</li></ul><p>The mistakes are the same everywhere too: sending ads to a number nobody watches, blasting the whole contact list, bots with no \"Talk to a person\" option, and not tagging chats by source and outcome, so you never learn which ads bring customers. WhatsApp also works best alongside a strong Google Business Profile, search ads and a clear website, not on its own.</p><p>If you'd like this set up for you, our <a href=\"../whatsapp-automation-agency-delhi-ncr.html\">WhatsApp automation agency</a> team in Dwarka builds auto-replies, routing and follow-up flows, and our <a href=\"../facebook-instagram-ads-agency-delhi-ncr.html\">Facebook and Instagram ads agency</a> runs the click-to-WhatsApp campaigns that fill them, starting with a 90-day sprint.</p>"
+    }
+  ],
+  "faqs": [
+    [
+      "Is WhatsApp marketing legal in India?",
+      "Yes, as long as you message people who have opted in to hear from you, use the official WhatsApp Business app or Business Platform, and follow WhatsApp's commerce and business policies. Buying number lists and using unofficial bulk-sending tools can get your number banned."
+    ],
+    [
+      "How much does WhatsApp marketing cost per message in India?",
+      "On the WhatsApp Business Platform, Meta charges per delivered message. In late 2026 a marketing message to an Indian number costs a little under ₹1 before 18% GST, while utility messages cost much less. Rates can change each quarter, so check Meta's current rate card."
+    ],
+    [
+      "Can I send bulk WhatsApp messages from the WhatsApp Business app?",
+      "You can create broadcast lists of up to 256 contacts, but only people who have saved your number receive them. For larger lists, automation or a team inbox, use the WhatsApp Business Platform with approved templates."
+    ],
+    [
+      "Are click-to-WhatsApp ads better than lead forms?",
+      "They usually bring fewer but warmer enquiries, because the person starts a real conversation. They work best when someone can reply within minutes. Many businesses run both and compare cost per customer rather than cost per lead."
+    ],
+    [
+      "How do I stop my WhatsApp business number from getting banned?",
+      "Message only people who opted in, avoid unofficial bulk tools, keep marketing messages relevant and infrequent, and make it easy to opt out. Watch your quality rating on the API; a falling rating is the warning sign."
+    ]
+  ],
+  "related": [
+    [
+      "whatsapp-automation-agency-delhi-ncr.html",
+      "Service",
+      "WhatsApp automation agency"
+    ],
+    [
+      "blog/meta-ads-cost-india.html",
+      "Guide",
+      "Meta ads cost in India"
+    ],
+    [
+      "blog/facebook-ads-for-solar-installers.html",
+      "Guide",
+      "Facebook ads for solar installers"
+    ]
+  ],
+  "cta_h2": "Want every WhatsApp enquiry answered in seconds?",
+  "cta_p": "Book a free call. We'll map your click-to-WhatsApp ads, auto-replies and follow-up flow, and share a 90-day plan.",
+  "wa_text": "Hi Performance and Pixel, I read your WhatsApp marketing guide and I'd like help setting it up for my business."
+}
