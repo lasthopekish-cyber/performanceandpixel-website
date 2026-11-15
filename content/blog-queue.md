@@ -23,7 +23,7 @@ Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 - [x] real estate lead generation gurgaon | Real estate | Gurugram project marketing, site visits, Meta and Google → blog/real-estate-lead-generation-gurgaon.html
 - [x] digital marketing for real estate noida | Real estate | Noida and Greater Noida buyer targeting and lead quality → blog/digital-marketing-real-estate-noida.html
 - [x] coaching institute marketing ideas | Education | admissions season calendar, demo-class ads, reviews → blog/coaching-institute-marketing-ideas.html
-- [ ] digital marketing for schools in delhi | Education | admission season planning, parent trust, Google and Meta
+- [x] digital marketing for schools in delhi | Education | admission season planning, parent trust, Google and Meta → blog/digital-marketing-for-schools-delhi.html
 - [ ] dental clinic marketing delhi | Healthcare | appointments from Maps, treatment ads, review system
 - [ ] restaurant marketing ideas delhi | Food and hospitality | Zomato vs direct orders, Reels, Maps, WhatsApp orders
 - [ ] bakery marketing ideas | Food and hospitality | festive seasons, cake orders on WhatsApp, Instagram
