@@ -22,7 +22,7 @@ Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 - [x] local seo for small business dwarka | Local SEO | how Dwarka shops, clinics and coaching centres rank in Maps → blog/local-seo-small-business-dwarka.html
 - [x] real estate lead generation gurgaon | Real estate | Gurugram project marketing, site visits, Meta and Google → blog/real-estate-lead-generation-gurgaon.html
 - [x] digital marketing for real estate noida | Real estate | Noida and Greater Noida buyer targeting and lead quality → blog/digital-marketing-real-estate-noida.html
-- [ ] coaching institute marketing ideas | Education | admissions season calendar, demo-class ads, reviews
+- [x] coaching institute marketing ideas | Education | admissions season calendar, demo-class ads, reviews → blog/coaching-institute-marketing-ideas.html
 - [ ] digital marketing for schools in delhi | Education | admission season planning, parent trust, Google and Meta
 - [ ] dental clinic marketing delhi | Healthcare | appointments from Maps, treatment ads, review system
 - [ ] restaurant marketing ideas delhi | Food and hospitality | Zomato vs direct orders, Reels, Maps, WhatsApp orders
