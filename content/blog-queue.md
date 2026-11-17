@@ -25,7 +25,7 @@ Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 - [x] coaching institute marketing ideas | Education | admissions season calendar, demo-class ads, reviews → blog/coaching-institute-marketing-ideas.html
 - [x] digital marketing for schools in delhi | Education | admission season planning, parent trust, Google and Meta → blog/digital-marketing-for-schools-delhi.html
 - [x] dental clinic marketing delhi | Healthcare | appointments from Maps, treatment ads, review system → blog/dental-clinic-marketing-delhi.html
-- [ ] restaurant marketing ideas delhi | Food and hospitality | Zomato vs direct orders, Reels, Maps, WhatsApp orders
+- [x] restaurant marketing ideas delhi | Food and hospitality | Zomato vs direct orders, Reels, Maps, WhatsApp orders → blog/restaurant-marketing-ideas-delhi.html
 - [ ] bakery marketing ideas | Food and hospitality | festive seasons, cake orders on WhatsApp, Instagram
 - [ ] salon marketing ideas delhi | Beauty and wellness | wedding season packages, first-visit offers, memberships
 - [ ] d2c brand marketing india | D2C and ecommerce | launching a D2C brand with Meta ads, creatives and retention
