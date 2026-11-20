@@ -10,6 +10,22 @@ Rank in the top 5–10 on Google India for:
 3. digital marketing agency in Dwarka → `digital-marketing-agency-dwarka.html`
 4. Industry + city long-tails → blog posts (see `content/blog-queue.md`)
 
+## Current focus (from 20 Nov 2026): solar marketing across Delhi NCR
+Every new blog post is about marketing for solar businesses (installers, EPCs, dealers,
+manufacturers), aimed at ranking for solar-marketing keywords across Delhi, Gurugram, Noida,
+Greater Noida, Ghaziabad, Faridabad and the wider NCR. Publishing cadence: 5 posts a day,
+one every 2 hours (9:47, 11:47, 13:47, 15:47, 17:47 IST).
+
+Rules for city posts, so they help rankings instead of looking like copy-paste pages:
+- Each city post must carry facts specific to that place (which DISCOM serves it, state
+  subsidy or net-metering rules, the kinds of homes and industrial areas there, local
+  search behaviour). Verify these with a web search; never reuse another city post's text.
+- Never publish two posts in one day for the same city or the same primary keyword.
+- If the keyword is essentially the same search as an existing post or service page, pick a
+  sharper angle or skip it and note why in the queue.
+- Link every solar post to `../solar-marketing-agency-delhi-ncr.html` and to 1–2 other solar
+  posts, so the solar section builds topical authority.
+
 ## How to publish a blog post
 1. Take the first unchecked keyword in `content/blog-queue.md`.
 2. Check the existing posts (`ls blog/`) so the new post doesn't repeat one. If it overlaps
