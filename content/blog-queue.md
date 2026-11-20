@@ -9,7 +9,6 @@ Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 
 ## Queue (solar only — the automation works top to bottom)
 - [ ] performance marketing for solar companies in delhi ncr | Solar | what performance marketing means for solar EPCs: cost per site visit, not cost per click (skipped 20 Nov 2026: a Delhi NCR post already went out today; take it on another day)
-- [ ] solar marketing agency in noida | Solar | Noida and Greater Noida homeowners, RWAs and commercial buyers
 - [ ] solar marketing agency in ghaziabad | Solar | Ghaziabad (Indirapuram, Raj Nagar Extension, industrial areas) solar demand and channels
 - [ ] solar marketing agency in faridabad | Solar | Faridabad homes and industrial units: residential vs commercial solar campaigns
 - [ ] solar lead generation in delhi | Solar | Delhi homeowners, DISCOM areas (BSES, Tata Power-DDL, NDMC) and how targeting differs
@@ -68,6 +67,7 @@ Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 - [ ] solar brand building in delhi ncr | Solar | trust, proof and consistency that make leads cheaper over time
 
 ## Published
+- [x] solar marketing agency in noida | Solar | Noida and Greater Noida homeowners, RWAs and commercial buyers → blog/solar-marketing-agency-noida.html
 - [x] solar marketing agency in gurgaon | Solar | Gurugram sectors, societies and villas: who buys rooftop solar and how to reach them → blog/solar-marketing-agency-gurgaon.html
 - [x] best solar marketing agency in delhi ncr | Solar | how to choose: 10 questions to ask a solar marketing agency, red flags, pricing models → blog/best-solar-marketing-agency-delhi-ncr.html
 - [x] best digital marketing agency in delhi ncr | Paid ads | 10-point checklist for choosing an agency → blog/best-digital-marketing-agency-delhi-ncr.html
