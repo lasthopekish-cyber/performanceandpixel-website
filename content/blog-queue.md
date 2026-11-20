@@ -8,7 +8,6 @@ Categories must be one of: Education, Healthcare, Real estate, Solar, D2C and ec
 Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 
 ## Queue (solar only — the automation works top to bottom)
-- [ ] best solar marketing agency in delhi ncr | Solar | how to choose: 10 questions to ask a solar marketing agency, red flags, pricing models
 - [ ] performance marketing for solar companies in delhi ncr | Solar | what performance marketing means for solar EPCs: cost per site visit, not cost per click
 - [ ] solar marketing agency in gurgaon | Solar | Gurugram sectors, societies and villas: who buys rooftop solar and how to reach them
 - [ ] solar marketing agency in noida | Solar | Noida and Greater Noida homeowners, RWAs and commercial buyers
@@ -70,6 +69,7 @@ Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 - [ ] solar brand building in delhi ncr | Solar | trust, proof and consistency that make leads cheaper over time
 
 ## Published
+- [x] best solar marketing agency in delhi ncr | Solar | how to choose: 10 questions to ask a solar marketing agency, red flags, pricing models → blog/best-solar-marketing-agency-delhi-ncr.html
 - [x] best digital marketing agency in delhi ncr | Paid ads | 10-point checklist for choosing an agency → blog/best-digital-marketing-agency-delhi-ncr.html
 - [x] digital marketing for solar companies in india | Solar | full channel playbook for solar EPCs: GBP, Meta lead ads, Google Search, WhatsApp, SEO → blog/digital-marketing-solar-companies-india.html
 - [x] facebook ads for solar installers | Solar | step-by-step Meta lead ad setup with qualifying questions and creative ideas → blog/facebook-ads-for-solar-installers.html
