@@ -1,0 +1,94 @@
+{
+  "slug": "performance-marketing-for-solar-companies",
+  "seo_title": "Performance Marketing for Solar Companies in Delhi NCR",
+  "description": "Performance marketing for solar companies in Delhi NCR: track cost per site visit, not cost per click, and set budgets, tracking and bids around installations.",
+  "headline": "Performance marketing for solar companies in Delhi NCR: judge ads by cost per site visit",
+  "card_title": "Performance marketing for solar companies",
+  "card_text": "Why solar EPCs and installers in Delhi NCR should judge ads by cost per site visit and cost per installation, and how to set up the tracking, budgets and bidding to do it.",
+  "category": "Solar",
+  "kicker": "Solar marketing",
+  "crumb": "Performance marketing for solar",
+  "date": "2026-11-21",
+  "llms_section": "Guides",
+  "cover_labels": [
+    "Survey booked",
+    "Cost per visit down"
+  ],
+  "accent": "#F59E0B",
+  "intro": "<p>Performance marketing for solar companies in Delhi NCR is often sold as cheap clicks and cheap leads. Neither pays your installation team. A ₹15 click from someone in another state, or a ₹40 lead from a tenant in a rented builder floor, looks great on a dashboard and never turns into a rooftop. What pays is a booked site survey with a homeowner who can actually install, and then a signed order.</p><p>This guide is for solar EPCs, installers and dealers across Delhi, Gurugram, Noida, Greater Noida, Ghaziabad and Faridabad who want their ad spend judged the way their business is judged. It covers the funnel numbers to track, how to set up tracking so Google and Meta learn from site visits instead of form fills, how to set budgets from the cost per installation you can afford, and what a weekly review should look like.</p>",
+  "sections": [
+    {
+      "id": "s1",
+      "h2": "What performance marketing means for a solar EPC",
+      "html": "<p>Performance marketing simply means you pay for media and judge it by a measurable business result. For most businesses that result is a sale on a website. Solar is different: nobody buys a 5 kW system online. The sale happens on a roof, after a survey, a quote and often a family discussion, and it can take a few weeks.</p><p>So the useful chain for a residential solar company looks like this:</p><ol><li><strong>Click or view</strong> – someone sees your ad.</li><li><strong>Enquiry</strong> – a form, call or WhatsApp message.</li><li><strong>Connected and qualified</strong> – your team reaches them, and they own the roof, are in your service area and have a bill worth solving.</li><li><strong>Site visit</strong> – a survey is booked and done.</li><li><strong>Order</strong> – advance paid, installation scheduled.</li></ol><p>Every stage has a cost. Cost per click and cost per lead sit at the top and are the easiest to report, which is why agencies love them. Cost per site visit and cost per installation sit at the bottom and are the ones that decide whether you make money. Good performance marketing for solar keeps the bottom two in view every week. If you're comparing agencies on this, our guide to <a href=\"best-solar-marketing-agency-delhi-ncr.html\">choosing the best solar marketing agency in Delhi NCR</a> lists the questions to ask.</p>"
+    },
+    {
+      "id": "s2",
+      "h2": "Why cost per click misleads solar businesses",
+      "html": "<p>Three things make the top-of-funnel numbers unreliable in solar:</p><ul><li><strong>Ownership.</strong> A large share of NCR households live in rented flats, PGs or builder floors where the roof belongs to someone else. They click and enquire, but can't install. Cheap leads are often cheap because they include many of these people.</li><li><strong>Geography.</strong> Delhi NCR spans three states and several DISCOMs: BSES Rajdhani, BSES Yamuna, Tata Power-DDL and NDMC in Delhi, DHBVN in Gurugram and Faridabad, and PVVNL and NPCL across Noida, Greater Noida and Ghaziabad. Location targeting that is a little too wide quietly fills your sheet with people your team can't reach in a day.</li><li><strong>Intent.</strong> \"Solar subsidy\" searches mix serious buyers with people who only want to know if solar is free. Both cost the same per click.</li></ul><p>A campaign can lower its cost per lead by 30% and raise its cost per site visit at the same time. That's why the number you optimise for has to sit further down the funnel.</p>"
+    },
+    {
+      "id": "s3",
+      "h2": "The funnel maths: work back from cost per installation",
+      "html": "<p>Start with what one installation is worth to you, then work back to what you can pay for each step. Here is an illustrative example. These are not benchmarks; replace them with your own numbers from the last three months.</p><div class=\"tablewrap\"><table><thead><tr><th>Stage</th><th>Example rate</th><th>Example count from 600 enquiries</th><th>Example cost at ₹42,000 spend</th></tr></thead><tbody><tr><td>Enquiries</td><td>–</td><td>600</td><td>₹70 per enquiry</td></tr><tr><td>Connected and qualified</td><td>50% of enquiries</td><td>300</td><td>₹140 per qualified lead</td></tr><tr><td>Site visits done</td><td>15% of qualified</td><td>45</td><td>₹933 per site visit</td></tr><tr><td>Orders</td><td>25% of site visits</td><td>11</td><td>About ₹3,800 per order</td></tr></tbody></table></div><p>Two things fall out of a table like this. First, the biggest lever is rarely the ad: moving site-visit-to-order from 25% to 35% cuts cost per order more than any bid change. Second, once you know the cost per order you can afford, you know the cost per site visit you can afford, and that becomes the target for your campaigns.</p><p>For reference, our rooftop campaigns run at ₹60–80 per qualified enquiry when they're working well, and solar clients at scale typically see 20–30 leads a day and 5–10 site visits a week. Your figures will depend on your city, offer, pricing and how fast your team calls.</p>"
+    },
+    {
+      "id": "s4",
+      "h2": "Tracking that makes performance marketing for solar companies work",
+      "html": "<p>Ad platforms optimise for whatever you tell them is a conversion. If the only signal they get is \"form submitted\", they find more people who submit forms, including the ones who never pick up. To teach them what a good solar lead looks like, you need to send back what happened after the enquiry.</p><ol><li><strong>Put every lead in one place.</strong> A CRM or a well-kept Google Sheet with columns for date, source, campaign, pincode, DISCOM, owner or tenant, bill range, connected, site visit booked, site visit done, quoted and ordered.</li><li><strong>Capture the source.</strong> Keep UTM tags on every ad link, store the click ID on website forms, and pull Meta lead form data automatically rather than downloading it.</li><li><strong>Send outcomes back to Meta.</strong> Meta's Conversions API can receive CRM stages such as qualified lead and site visit, so delivery leans toward people who reach those stages. Check Meta's current setup requirements before you build it.</li><li><strong>Send outcomes back to Google.</strong> Google now steers advertisers toward enhanced conversions for leads (often set up through Google Ads Data Manager) for importing offline results. Import site visit and order as separate conversion actions, and set only the deeper one as primary once it has enough volume.</li><li><strong>Track calls and WhatsApp.</strong> Use call tracking on ads and the website, and tag click-to-WhatsApp chats by campaign, or a big share of your enquiries will look like they came from nowhere.</li></ol><p>None of this needs expensive software. It needs one person who owns the lead sheet and updates outcomes daily.</p>"
+    },
+    {
+      "id": "s5",
+      "h2": "Budgets and bidding for NCR solar campaigns",
+      "html": "<p>Once tracking is in place, the setup changes from \"spend and hope\" to something you can steer:</p><ul><li><strong>Split by city, not just by platform.</strong> A Gurugram villa owner, a Noida society resident and a Faridabad factory owner respond to different messages and convert at different rates. Separate campaigns or ad sets by city let you move budget to where site visits are cheapest.</li><li><strong>Give each campaign enough data.</strong> Optimising for site visits only works when there are enough of them. Many installers start by optimising for qualified leads, then move to site visits once a campaign has a steady flow each week.</li><li><strong>Move budget slowly.</strong> Raise winning campaigns in steps and give each change several days. Daily edits reset learning and make results harder to read.</li><li><strong>Keep a small test budget.</strong> Around a tenth of spend for new creatives, new cities or a new channel such as YouTube, so you always have the next winner ready.</li><li><strong>Match budget to capacity.</strong> If your survey team can do 10 visits a week, buying 30 is waste. Scale media with your installation crew, not ahead of it.</li></ul><p>Platform specifics are in our guides to <a href=\"google-ads-for-solar-companies.html\">Google Ads for solar companies</a> and <a href=\"facebook-ads-for-solar-installers.html\">Facebook ads for solar installers</a>.</p>"
+    },
+    {
+      "id": "s6",
+      "h2": "Offers and claims that hold up",
+      "html": "<p>Performance campaigns tempt advertisers to push the boldest claim that gets a click. In solar that backfires, because the site visit is where exaggerated promises fall apart and the lead goes cold.</p><p>The PM Surya Ghar: Muft Bijli Yojana scheme currently offers central financial assistance of ₹30,000 for 1 kW, ₹60,000 for 2 kW and ₹78,000 for 3 kW and above for eligible homes, and some states add their own support. Use it as a reason to enquire, stated accurately, and check pmsuryaghar.gov.in before each campaign because rules can change. Avoid \"free solar\", \"zero bill guaranteed\" or anything that looks like a government notice. Our post on <a href=\"pm-surya-ghar-subsidy-ads.html\">using the PM Surya Ghar subsidy in ads</a> has wording you can adapt.</p><p>Offers that tend to raise site-visit rates without overpromising include a free site survey with a written system size, a bill-based savings estimate in a range, and help with the subsidy and net-metering paperwork for the customer's DISCOM.</p>"
+    },
+    {
+      "id": "s7",
+      "h2": "A weekly review that keeps spend honest",
+      "html": "<p>Block 30 minutes every week and look at the same five numbers, by city and by campaign:</p><ol><li>Spend and enquiries.</li><li>Connect rate and qualified rate.</li><li>Site visits booked and done.</li><li>Cost per site visit against your target.</li><li>Orders and cost per order, looking back over the last four to six weeks because solar sales lag.</li></ol><p>Then make one or two decisions only: move budget toward the city or campaign with the cheapest site visits, refresh creatives that have gone stale, or fix the follow-up step that is leaking. If connect rate drops, look at call speed before you blame the ads.</p><p>If you want this run for you, our <a href=\"../solar-marketing-agency-delhi-ncr.html\">solar marketing agency</a> works with 30+ solar EPCs and manufacturers across India and starts with a 90-day sprint. You can see the work in our <a href=\"../solar-portfolio.html\">solar case studies</a>. We won't promise rankings or a fixed number of orders; we will report cost per site visit every week.</p>"
+    }
+  ],
+  "faqs": [
+    [
+      "What is performance marketing for solar companies?",
+      "It means running paid ads on Google, Meta and other platforms and judging them by measurable business results. For solar, the useful results are qualified leads, booked site visits and installations, not clicks or raw form fills."
+    ],
+    [
+      "What is a good cost per site visit for solar in Delhi NCR?",
+      "It depends on what an installation is worth to you and how well your team converts surveys into orders. Work back from the cost per order you can afford, divide by your site-visit-to-order rate, and use that as your target."
+    ],
+    [
+      "How do I track which solar ads lead to installations?",
+      "Keep every lead in one CRM or sheet with its source campaign, update the outcome daily, and send stages like site visit and order back to Meta through the Conversions API and to Google through enhanced conversions for leads."
+    ],
+    [
+      "Should solar installers run separate campaigns for each NCR city?",
+      "Usually yes, once budget allows. Gurugram, Noida, Ghaziabad, Faridabad and Delhi differ in housing, DISCOMs and buyer type, and separate campaigns let you shift budget to the city with the cheapest site visits."
+    ]
+  ],
+  "related": [
+    [
+      "solar-marketing-agency-delhi-ncr.html",
+      "Service",
+      "Solar marketing agency"
+    ],
+    [
+      "blog/google-ads-for-solar-companies.html",
+      "Guide",
+      "Google Ads for solar companies"
+    ],
+    [
+      "blog/solar-lead-generation-india.html",
+      "Guide",
+      "Solar lead generation in India"
+    ]
+  ],
+  "cta_h2": "Want your solar ads judged by site visits?",
+  "cta_p": "Book a free call. We'll look at your current campaigns and lead sheet and show you your real cost per site visit, plus a 90-day plan to bring it down.",
+  "wa_text": "Hi Performance and Pixel, I read your guide on performance marketing for solar companies and I'd like a review of my cost per site visit."
+}
