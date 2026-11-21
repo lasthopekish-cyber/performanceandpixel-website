@@ -8,7 +8,6 @@ Categories must be one of: Education, Healthcare, Real estate, Solar, D2C and ec
 Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 
 ## Queue (solar only — the automation works top to bottom)
-- [ ] solar lead generation in delhi | Solar | Delhi homeowners, DISCOM areas (BSES, Tata Power-DDL, NDMC) and how targeting differs
 - [ ] rooftop solar leads in gurgaon | Solar | where Gurugram rooftop leads come from and what a qualified one looks like
 - [ ] rooftop solar leads in noida | Solar | lead quality filters for Noida societies vs independent houses
 - [ ] solar leads in ghaziabad | Solar | channel mix and cost expectations for Ghaziabad installers
@@ -64,6 +63,7 @@ Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 - [ ] solar brand building in delhi ncr | Solar | trust, proof and consistency that make leads cheaper over time
 
 ## Published
+- [x] solar lead generation in delhi | Solar | Delhi homeowners, DISCOM areas (BSES, Tata Power-DDL, NDMC) and how targeting differs → blog/solar-lead-generation-delhi.html
 - [x] solar marketing agency in faridabad | Solar | Faridabad homes and industrial units: residential vs commercial solar campaigns → blog/solar-marketing-agency-faridabad.html
 - [x] performance marketing for solar companies in delhi ncr | Solar | what performance marketing means for solar EPCs: cost per site visit, not cost per click → blog/performance-marketing-for-solar-companies.html
 - [x] solar marketing agency in ghaziabad | Solar | Ghaziabad (Indirapuram, Raj Nagar Extension, industrial areas) solar demand and channels → blog/solar-marketing-agency-ghaziabad.html
