@@ -8,9 +8,8 @@ Categories must be one of: Education, Healthcare, Real estate, Solar, D2C and ec
 Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 
 ## Queue (solar only — the automation works top to bottom)
-- [ ] solar marketing in south delhi | Solar | high-value homes, kothis and farmhouses: premium positioning and site visits
-- [ ] solar marketing for east delhi and west delhi installers | Solar | dense colonies, rooftop access and lead filtering
-- [ ] google ads for solar installers in delhi ncr | Solar | Delhi NCR keyword list, location targeting by city, negative keywords
+- [ ] solar marketing in south delhi | Solar | high-value homes, kothis and farmhouses: premium positioning and site visits (skipped 22 Nov: Delhi post already published today — Dwarka)
+- [ ] solar marketing for east delhi and west delhi installers | Solar | dense colonies, rooftop access and lead filtering (skipped 22 Nov: Delhi post already published today — Dwarka)
 - [ ] meta ads for solar companies in delhi ncr | Solar | city-level audiences, lead forms and creatives for NCR homeowners
 - [ ] solar seo services in delhi ncr | Solar | ranking a solar installer for "solar panel installation near me" across NCR cities
 - [ ] google business profile for solar installers | Solar | Maps ranking checklist for solar companies in NCR
@@ -57,6 +56,7 @@ Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 - [ ] solar brand building in delhi ncr | Solar | trust, proof and consistency that make leads cheaper over time
 
 ## Published
+- [x] google ads for solar installers in delhi ncr | Solar | Delhi NCR keyword list, location targeting by city, negative keywords (campaigns by state/DISCOM, NCR border spill, NCR job/portal negatives; sharper angle than google-ads-for-solar-companies) → blog/google-ads-solar-installers-delhi-ncr.html
 - [x] solar marketing in dwarka delhi | Solar | Dwarka independent houses and societies: local SEO + Meta for installers (CGHS committee sales, BRPL, 2026 Delhi policy) → blog/solar-marketing-dwarka-delhi.html
 - [x] solar installer marketing in greater noida | Solar | Greater Noida West and plotted areas: new buyers and builder floors (plotted sectors vs AOA-led society sales, NPCL/PVVNL bill check, single-point connections) → blog/solar-installer-marketing-greater-noida.html
 - [x] solar leads in faridabad | Solar | Faridabad installer playbook: Meta, Google, Maps and referrals (30-day week-by-week plan with zone/pincode targeting and Faridabad lead filters; sharper angle than solar-marketing-agency-faridabad) → blog/solar-leads-faridabad.html
