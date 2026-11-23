@@ -1,0 +1,98 @@
+{
+  "slug": "meta-ads-solar-companies-delhi-ncr",
+  "seo_title": "Meta Ads for Solar Companies in Delhi NCR: City Setup",
+  "description": "Meta ads for solar companies in Delhi NCR: ad sets by state and DISCOM, location targeting across NCR borders, city-aware lead forms and accurate subsidy copy.",
+  "headline": "Meta ads for solar companies in Delhi NCR: audiences, forms and creatives city by city",
+  "card_title": "Meta ads for solar companies in Delhi NCR",
+  "card_text": "How to run Facebook and Instagram ads across Delhi, Gurugram, Noida, Ghaziabad and Faridabad: ad sets by state, location targeting, lead forms and creatives that match each city.",
+  "category": "Solar",
+  "kicker": "Solar marketing",
+  "crumb": "Meta ads for solar in NCR",
+  "date": "2026-11-23",
+  "llms_section": "Guides",
+  "cover_labels": [
+    "NCR homeowner lead",
+    "Survey booked"
+  ],
+  "accent": "#0866FF",
+  "intro": "<p>Meta ads for solar companies in Delhi NCR look simple on paper: one region, one audience of homeowners, one lead form. In practice, NCR is three states, at least five electricity distribution companies and very different kinds of homes, from Dwarka society flats to Faridabad independent houses and Gurugram villas. An ad that says the right thing to a BRPL customer in Delhi can say the wrong thing to a DHBVN customer in Gurugram.</p><p>This guide is the NCR-specific layer on top of a standard solar lead ad setup. It covers how to split ad sets by state and DISCOM, how Meta's location targeting behaves around NCR's city borders, how to build lead forms that capture city and bill details, and how to write creatives and subsidy copy that stay accurate in each city. If you need the basics of campaign settings first, start with our step-by-step guide to <a href=\"facebook-ads-for-solar-installers.html\">Facebook ads for solar installers</a>.</p>",
+  "sections": [
+    {
+      "id": "s1",
+      "h2": "Why Meta ads for solar companies in Delhi NCR need a three-state setup",
+      "html": "<p>Most rooftop solar buyers in NCR decide on four things: the subsidy they can get, the net-metering process with their DISCOM, whether they control the roof, and whether they trust the installer. The first two change the moment a buyer crosses a city border.</p><table><thead><tr><th>Area</th><th>State</th><th>Main DISCOMs</th><th>What changes in your message</th></tr></thead><tbody><tr><td>Delhi</td><td>Delhi</td><td>BSES Rajdhani (BRPL), BSES Yamuna (BYPL), Tata Power-DDL, NDMC areas</td><td>Delhi's own state subsidy and policy on top of PM Surya Ghar; DISCOM-specific application steps</td></tr><tr><td>Gurugram, Faridabad</td><td>Haryana</td><td>Dakshin Haryana Bijli Vitran Nigam (DHBVN)</td><td>Haryana's own support scheme, eligibility checked on the DISCOM portal</td></tr><tr><td>Noida, Greater Noida, Ghaziabad</td><td>Uttar Pradesh</td><td>NPCL in much of Greater Noida; PVVNL in Noida, Ghaziabad and other pockets</td><td>UP state support through UPNEDA where available; single-point society connections</td></tr></tbody></table><p>If one ad set covers all of NCR, Meta spends wherever leads are cheapest, which is often not where your survey team works. Splitting by state lets you match the message and compare cost per site visit fairly.</p>"
+    },
+    {
+      "id": "s2",
+      "h2": "Account structure: one campaign, ad sets by state",
+      "html": "<p>For most installers and EPCs spending under ₹2 lakh a month on Meta, this structure is enough:</p><ol><li><strong>One Leads campaign for residential rooftop solar.</strong> Keep commercial and industrial solar in a separate campaign; a factory owner in Manesar needs a different form and sales process.</li><li><strong>One ad set per state you serve:</strong> Delhi, Haryana NCR (Gurugram and Faridabad), UP NCR (Noida, Greater Noida, Ghaziabad). If a single city drives most of your installs, give it its own ad set.</li><li><strong>The same three to five creative concepts in each ad set,</strong> with the city name, DISCOM name and local project photos swapped in.</li><li><strong>One remarketing ad set</strong> for video viewers and people who opened your form but didn't submit, across all cities.</li></ol><p>Splitting further, into one ad set per sector, usually starves each one of the results Meta needs to optimise. A few well-funded ad sets beat ten thin ones.</p>"
+    },
+    {
+      "id": "s3",
+      "h2": "Location targeting that respects NCR's borders",
+      "html": "<p>Location is the most important targeting setting for a solar installer, because a lead outside your service area costs money and can never become an install. A few things to know about how Meta handles it:</p><ul><li><strong>Location stays a hard limit.</strong> With Advantage+ audience switched on, Meta treats interests and other detailed targeting as suggestions it can go beyond, but it keeps to the locations and minimum age you set.</li><li><strong>Meta targets people living in or recently in a place.</strong> You can't isolate residents only, so expect some leads from commuters who work in Gurugram or Noida but live elsewhere. Your form's pincode question, covered below, catches these.</li><li><strong>Use pin drops with a radius for the areas you really serve.</strong> Meta's radius starts at 1 mile (about 1.6 km). Drop pins on the sectors and colonies your team reaches in a day, such as Faridabad's older sectors or Gurugram's DLF phases and Sohna Road, instead of selecting an entire city.</li><li><strong>Exclude what you can't serve.</strong> Use location exclusions for areas outside your team's reach, and exclude past customers and existing leads with a custom audience so you don't pay for the same person twice.</li></ul><p>Check the map preview after every change: a 10 km radius around a border colony often spills into another state, with a different subsidy and DISCOM.</p>"
+    },
+    {
+      "id": "s4",
+      "h2": "Lead forms that capture city, DISCOM and roof",
+      "html": "<p>A national solar form asks for name, phone and bill. An NCR form needs a few more answers, because they decide whether a lead can be served and what the quote will look like:</p><table><thead><tr><th>Question</th><th>Answer type</th><th>Why it matters in NCR</th></tr></thead><tbody><tr><td>Which area is the property in?</td><td>Short list of your cities, or pincode</td><td>Filters out commuters and border spill</td></tr><tr><td>Who is your electricity company?</td><td>BRPL / BYPL / Tata Power-DDL / DHBVN / NPCL / PVVNL / Not sure</td><td>Sets the net-metering steps and subsidy route</td></tr><tr><td>What type of property is it?</td><td>Independent house / Builder floor with roof rights / Society flat / Commercial</td><td>Society flat owners usually need an RWA route, not a home survey</td></tr><tr><td>Do you own the property?</td><td>Yes / No / Family-owned</td><td>Tenants rarely get approval to install</td></tr><tr><td>Average monthly bill?</td><td>Under ₹2,000 / ₹2,000–4,000 / ₹4,000–8,000 / Above ₹8,000</td><td>Indicates system size and seriousness</td></tr></tbody></table><p>Keep it to five or six questions; every extra field lowers completion. Meta's higher-intent form type, which adds a review step, usually costs more per lead but cuts accidental submissions. Route society-flat answers to a separate RWA follow-up track instead of discarding them.</p>"
+    },
+    {
+      "id": "s5",
+      "h2": "Creatives and subsidy copy for each city",
+      "html": "<p>Homeowners trust what looks local, so build each concept once and localise it:</p><ul><li><strong>Local install walk-throughs:</strong> a 20–30 second phone video of a finished roof, with the sector or colony named on screen.</li><li><strong>DISCOM explainers:</strong> \"How net metering works with DHBVN in Gurugram\" or \"BRPL rooftop solar application, step by step.\" These answer the question most buyers are afraid to ask.</li><li><strong>Bill comparisons:</strong> a customer's bill before and after solar, shared with permission and personal details hidden, from the same DISCOM as the audience.</li><li><strong>Language:</strong> test Hindi or Hinglish voice-overs against English, especially in Faridabad, Ghaziabad and outer Delhi.</li></ul><p>Subsidy claims need the most care, because they differ by state and change often. The central PM Surya Ghar: Muft Bijli Yojana assistance for homes is currently up to ₹78,000 for 3 kW and above. On top of that:</p><ul><li><strong>Delhi</strong> lists a state subsidy on its solar portal, and a 2026 policy amendment added a zero-upfront option for eligible low-consumption homes.</li><li><strong>Haryana</strong> launched the Saur Urja Protsahan Yojana in 2026, giving eligible domestic consumers additional state assistance for systems up to 5 kW, with eligibility checked on the DISCOM portal.</li><li><strong>Uttar Pradesh</strong> has offered additional state support through UPNEDA in past phases.</li></ul><p>Put a state figure in an ad only when you have the current official order in hand, and never say \"free solar\" or imply you are the government. Our guide to <a href=\"pm-surya-ghar-subsidy-ads.html\">PM Surya Ghar subsidy ads</a> has safe wording for headlines and forms, and <a href=\"solar-ad-creative-ideas.html\">solar ad creative ideas</a> has more concepts to localise.</p>"
+    },
+    {
+      "id": "s6",
+      "h2": "Budget split and testing across NCR cities",
+      "html": "<p>Start by splitting budget in line with where your survey and installation teams can work, not evenly across cities. A practical approach:</p><ol><li><strong>Weeks 1–2:</strong> fund each state ad set enough to get a steady flow of leads, run three to five creatives in each, and change nothing for the first few days while Meta learns.</li><li><strong>Weeks 3–4:</strong> compare cost per qualified lead and cost per site visit by state. Move budget gradually towards the cheapest site visits, not the cheapest leads.</li><li><strong>Every week after:</strong> add one or two new creatives per ad set and pause tired ones.</li></ol><p>Expect seasonal swings. Interest in NCR usually rises as summer bills climb from April onwards and can soften in the winter months, when many installers shift to remarketing, referrals and society pitches. For reference, our rooftop solar campaigns typically deliver qualified enquiries at ₹60–80 each, and solar clients at scale typically get 20–30 leads a day and 5–10 site visits a week. Your numbers will depend on your city mix, offer and follow-up.</p>"
+    },
+    {
+      "id": "s7",
+      "h2": "Follow-up and measurement by city",
+      "html": "<p>Measure every city the same way, and tell Meta which leads became real buyers:</p><ul><li><strong>Instant routing:</strong> send each lead to the salesperson or survey team for that city, with the DISCOM and property type in the alert.</li><li><strong>WhatsApp first message within minutes:</strong> introduce yourself, share one install video from their area, and ask for a photo of the latest bill. Our <a href=\"../whatsapp-automation-agency-delhi-ncr.html\">WhatsApp automation</a> setup handles this automatically.</li><li><strong>Outcome tagging:</strong> mark each lead as not reachable, out of area, society flat, site visit booked or installed.</li><li><strong>Send outcomes back to Meta</strong> through the Conversions API or a CRM integration, so the system can optimise for site visits rather than raw form fills.</li></ul><p>Then review one table each week: leads, qualified leads, site visits and installs by state ad set. If one city has cheap leads but few site visits, the fix is usually location, form questions or call speed, not more budget. If you would rather have this built for you, our <a href=\"../solar-marketing-agency-delhi-ncr.html\">solar marketing agency</a> team sets up the full NCR structure in a 90-day sprint, and our <a href=\"../solar-portfolio.html\">solar portfolio</a> shows the kind of work we do for solar brands.</p>"
+    }
+  ],
+  "faqs": [
+    [
+      "Do Meta ads work for solar companies in Delhi NCR?",
+      "Yes, for residential rooftop solar, Facebook and Instagram are often the biggest source of enquiries by volume in NCR. They work best when ad sets are split by state, the form asks for area, DISCOM and property type, and your team calls back within minutes."
+    ],
+    [
+      "Should I run separate Meta ads for Delhi, Gurugram and Noida?",
+      "Usually yes, at least one ad set per state. Delhi, Haryana and Uttar Pradesh have different subsidy schemes and DISCOM processes, so separate ad sets let you match the message and compare cost per site visit fairly."
+    ],
+    [
+      "Can I target specific sectors or pincodes on Facebook ads in NCR?",
+      "You can drop pins on specific sectors or colonies with a radius starting at about 1.6 km, and exclude areas you don't serve. Add a pincode or area question to your lead form as well, because Meta reaches people living in or recently in a location, including commuters."
+    ],
+    [
+      "What should solar ads in NCR say about subsidy?",
+      "State the central PM Surya Ghar figure accurately, mention state support only when you have the current official order, and avoid phrases like free solar or guaranteed subsidy. Check the national and state portals before every campaign, because amounts and rules change."
+    ],
+    [
+      "How much should a solar installer spend on Meta ads in Delhi NCR?",
+      "Set the budget from your target cost per site visit and the number of surveys your team can handle each week. Fund each state ad set enough to produce a steady flow of leads, then move budget towards the cities that turn leads into site visits most cheaply."
+    ]
+  ],
+  "related": [
+    [
+      "solar-marketing-agency-delhi-ncr.html",
+      "Service",
+      "Solar marketing agency"
+    ],
+    [
+      "blog/facebook-ads-for-solar-installers.html",
+      "Guide",
+      "Facebook ads for solar installers"
+    ],
+    [
+      "blog/google-ads-solar-installers-delhi-ncr.html",
+      "Guide",
+      "Google Ads for solar installers in Delhi NCR"
+    ]
+  ],
+  "cta_h2": "Want Meta ads that book solar site visits across NCR?",
+  "cta_p": "Book a free call. We'll review your current Facebook and Instagram setup city by city and share a 90-day plan for more qualified solar enquiries.",
+  "wa_text": "Hi Performance and Pixel, I read your guide on Meta ads for solar companies in Delhi NCR and I'd like a free review of my solar ads."
+}

@@ -8,8 +8,7 @@ Categories must be one of: Education, Healthcare, Real estate, Solar, D2C and ec
 Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 
 ## Queue (solar only — the automation works top to bottom)
-- [ ] solar marketing for east delhi and west delhi installers | Solar | dense colonies, rooftop access and lead filtering (skipped 22 Nov: Delhi post already published today — Dwarka)
-- [ ] meta ads for solar companies in delhi ncr | Solar | city-level audiences, lead forms and creatives for NCR homeowners
+- [ ] solar marketing for east delhi and west delhi installers | Solar | dense colonies, rooftop access and lead filtering (skipped 22 Nov: Delhi post already published today — Dwarka; skipped 23 Nov: Delhi post already published today — South Delhi)
 - [ ] solar seo services in delhi ncr | Solar | ranking a solar installer for "solar panel installation near me" across NCR cities
 - [ ] google business profile for solar installers | Solar | Maps ranking checklist for solar companies in NCR
 - [ ] solar company website design that converts | Solar | landing page structure, subsidy calculator, trust proof, WhatsApp
@@ -55,6 +54,7 @@ Food and hospitality, Beauty and wellness, B2B and startups, Paid ads, Local SEO
 - [ ] solar brand building in delhi ncr | Solar | trust, proof and consistency that make leads cheaper over time
 
 ## Published
+- [x] meta ads for solar companies in delhi ncr | Solar | city-level audiences, lead forms and creatives for NCR homeowners (ad sets by state/DISCOM, Meta location controls and pin radius, NCR lead-form questions, state subsidy copy; sharper angle than facebook-ads-for-solar-installers) → blog/meta-ads-solar-companies-delhi-ncr.html
 - [x] solar marketing in south delhi | Solar | high-value homes, kothis and farmhouses: premium positioning and site visits (builder-floor terrace rights, subsidy capped at 3 kW for big systems, BRPL) → blog/solar-marketing-south-delhi.html
 - [x] google ads for solar installers in delhi ncr | Solar | Delhi NCR keyword list, location targeting by city, negative keywords (campaigns by state/DISCOM, NCR border spill, NCR job/portal negatives; sharper angle than google-ads-for-solar-companies) → blog/google-ads-solar-installers-delhi-ncr.html
 - [x] solar marketing in dwarka delhi | Solar | Dwarka independent houses and societies: local SEO + Meta for installers (CGHS committee sales, BRPL, 2026 Delhi policy) → blog/solar-marketing-dwarka-delhi.html
