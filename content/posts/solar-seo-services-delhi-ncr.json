@@ -1,0 +1,94 @@
+{
+  "slug": "solar-seo-services-delhi-ncr",
+  "seo_title": "Solar SEO Services in Delhi NCR: Rank in Every City",
+  "description": "Solar SEO services in Delhi NCR explained: Maps, city pages with DISCOM and subsidy facts, Hindi searches and reviews that help installers rank across NCR.",
+  "headline": "Solar SEO services in Delhi NCR: ranking for \"solar panel installation near me\" in every city",
+  "card_title": "Solar SEO services in Delhi NCR",
+  "card_text": "How solar installers can show up for near-me and city searches across Delhi, Gurugram, Noida, Ghaziabad and Faridabad: Maps, city pages, Hindi queries and reviews.",
+  "category": "Solar",
+  "kicker": "Solar marketing",
+  "crumb": "Solar SEO in Delhi NCR",
+  "date": "2026-11-23",
+  "llms_section": "Guides",
+  "cover_labels": [
+    "Maps call received",
+    "Survey enquiry"
+  ],
+  "accent": "#1E8E3E",
+  "intro": "<p>Solar SEO services in Delhi NCR have one job: when a homeowner in Rohini, Sector 62 Noida or DLF Phase 2 types \"solar panel installation near me\", your company should be one of the names they see. That search shows a map pack first, then a mix of national brands, marketplaces and local installers. Most installers spend on ads and leave this free shelf space to whoever got there first.</p><p>The catch is that NCR is not one market for search. A buyer in Gurugram searches with different words, sees a different map pack and gets a different subsidy and DISCOM process from a buyer in Ghaziabad. This guide explains how solar SEO works across the NCR cities, what to fix first, and how to tell whether an SEO agency is doing real work. For the wider channel mix, see our playbook on <a href=\"digital-marketing-solar-companies-india.html\">digital marketing for solar companies</a>.</p>",
+  "sections": [
+    {
+      "id": "s1",
+      "h2": "What solar SEO services in Delhi NCR should cover",
+      "html": "<p>\"SEO\" for a solar installer is really three different jobs, and an agency that only does one of them will leave enquiries on the table.</p><table><thead><tr><th>Layer</th><th>Where it shows</th><th>What moves it</th></tr></thead><tbody><tr><td>Maps (local pack)</td><td>The map and three listings above the website results for near-me and city searches</td><td>Google Business Profile category, distance to the searcher, reviews, photos, consistent name, address and phone</td></tr><tr><td>Website (organic results)</td><td>Blue links below the map, plus AI Overviews on informational searches</td><td>City and service pages, useful answers on subsidy and net metering, page speed, internal links</td></tr><tr><td>Trust and mentions</td><td>Directories, marketplaces, the PM Surya Ghar vendor listing, local news and RWA groups</td><td>Accurate listings, links from local and industry sites, being findable when a buyer checks you out</td></tr></tbody></table><p>A homeowner rarely calls the first result they see. They look at the map, open two or three profiles, read reviews, check the website for a price range or subsidy explanation, and then WhatsApp the one that looks most local and most real. Good solar SEO makes sure you win at each of those steps, not just the first.</p>"
+    },
+    {
+      "id": "s2",
+      "h2": "How NCR searches differ city by city",
+      "html": "<p>The words people use and the results they see change across NCR, so your keyword list should too.</p><ul><li><strong>Delhi:</strong> searches often include the colony or DISCOM area, such as \"solar installer in Dwarka\" or \"BSES solar net metering\". Delhi is served by BSES Rajdhani, BSES Yamuna and Tata Power-DDL, with NDMC in Lutyens' Delhi, and buyers ask which one handles their application.</li><li><strong>Gurugram and Faridabad:</strong> Haryana homes are on DHBVN. Searches lean towards \"rooftop solar for villa\", sector names and Haryana subsidy questions.</li><li><strong>Noida, Greater Noida and Ghaziabad:</strong> UP buyers mix society questions (\"solar for society rooftop\", \"solar in Gaur City\") with UP subsidy searches. DISCOMs here include PVVNL and, in much of Greater Noida, NPCL.</li><li><strong>Hindi and Hinglish:</strong> queries like \"solar panel lagwane ka kharcha\" or \"ghar par solar subsidy kaise milegi\" bring real buyers. A short Hindi FAQ section or page can pick up searches that English-only competitors miss.</li></ul><p>Build the list from Search Console data and Google's own suggestions for each city, not from a generic \"solar keywords\" file written for another country. Most of the top-ranking solar SEO guides are written for the US or UK and say nothing about DISCOMs, Indian subsidies or Hindi search.</p>"
+    },
+    {
+      "id": "s3",
+      "h2": "Google Business Profile: the fastest SEO win for solar installers",
+      "html": "<p>For most installers, the map pack brings more calls than the website. Start here.</p><ol><li><strong>Pick the right primary category.</strong> \"Solar energy company\" or a solar panel installer category, whichever Google offers that fits your work best, with relevant secondary categories. Don't stuff city names into the business name; it breaks Google's guidelines and can get the profile suspended.</li><li><strong>Set up the address honestly.</strong> If customers don't visit your office, you can hide the address and list service areas instead. Google allows up to 20 service areas and asks that they stay within roughly two hours' drive of your base. Service areas help you appear, but distance still matters, so a Dwarka office will rarely top the map in Greater Noida.</li><li><strong>Add services and products</strong> such as residential rooftop solar, society solar, on-grid systems and net-metering help, each with a plain description.</li><li><strong>Post real installation photos every week,</strong> taken on site, with the area named in the description.</li><li><strong>Ask every installed customer for a review</strong> and reply to each one. Reviews that mention the area and system size (\"5 kW in Sector 50\") help buyers and are a known local ranking factor.</li></ol><p>If you have a real office or warehouse in a second city, that location can have its own profile. Virtual offices and co-working addresses created only to rank are a common reason for suspensions, so avoid them. Our <a href=\"../local-seo-services-delhi-ncr.html\">local SEO services</a> page covers the full Maps checklist.</p>"
+    },
+    {
+      "id": "s4",
+      "h2": "City pages that rank without looking like copy-paste",
+      "html": "<p>A page for each city you serve is the standard way to rank outside your own neighbourhood. It only works if each page is truly about that city. Swapping \"Noida\" for \"Faridabad\" in the same text is the kind of thin content Google filters out.</p><p>Each city page should carry:</p><ul><li>The DISCOM that serves the area and the steps for net metering there, explained simply. Check the current process before you publish, since portals and forms change.</li><li>The subsidy position: the central PM Surya Ghar subsidy plus any state support in Delhi, Haryana or UP, written so it stays accurate (\"check the current rate on the national portal\").</li><li>The types of homes you install on there: builder floors, kothis, plotted sectors or society blocks, and what each needs.</li><li>Real installation photos from that city, with the locality named, and reviews from customers there.</li><li>A clear way to enquire: a short form, a WhatsApp button and a phone number.</li></ul><p>Five strong city pages beat fifty thin locality pages. Add locality pages later only where you have real installs and something local to say.</p>"
+    },
+    {
+      "id": "s5",
+      "h2": "Content that answers what solar buyers actually ask",
+      "html": "<p>Before a homeowner searches for an installer, they search for answers. Pages that answer those questions well bring visitors who are early in the decision and still choosing who to trust.</p><ul><li>How much does a 3 kW or 5 kW system cost in Delhi NCR, and what does the subsidy cover?</li><li>How long does net metering take with my DISCOM?</li><li>Can I install solar on a builder floor or in a society?</li><li>How much will my bill come down in summer versus winter?</li><li>On-grid or hybrid with battery for NCR power cuts?</li></ul><p>Give a straight answer near the top of each page, then the detail. This format also helps you get cited in Google's AI Overviews and in AI assistants that people now use for research. Keep prices as ranges with a date, and update them when component prices or subsidy rules change; an outdated price page loses trust fast.</p><p>Link every article to the matching city or service page so search engines, and readers, can move from the question to the enquiry.</p>"
+    },
+    {
+      "id": "s6",
+      "h2": "Technical and trust basics most solar websites miss",
+      "html": "<ul><li><strong>Speed on mobile data.</strong> Most NCR solar buyers find you on a phone. Compress images, avoid heavy sliders and test pages on a mid-range phone.</li><li><strong>One consistent name, address and phone</strong> across the website, Google Business Profile, Justdial, IndiaMART and other listings.</li><li><strong>Schema markup</strong> for your business, services and FAQs, so search engines understand what you do and where.</li><li><strong>Proof on the page:</strong> installation counts you can back up, panel and inverter brands you use, warranty terms, and your registration as a vendor on the PM Surya Ghar national portal if you have it, since many buyers now check this.</li><li><strong>Search Console set up</strong> and checked monthly for pages that dropped, queries you nearly rank for and indexing errors.</li></ul><p>None of this is glamorous, but a fast, honest website is what turns a ranking into an enquiry. Our <a href=\"../solar-portfolio.html\">solar portfolio</a> shows how we have handled this for solar brands, including a website build and Google reviews with local SEO work.</p>"
+    },
+    {
+      "id": "s7",
+      "h2": "How to judge a solar SEO agency, and what to expect",
+      "html": "<p>SEO is slower than ads. New city pages and a cleaned-up Maps profile often take a few months to show steady movement, and nobody can guarantee a position on Google. Be wary of any agency that promises \"page one in 30 days\".</p><p>Ask any agency these questions:</p><ol><li>Which searches will you target in each NCR city, and why those?</li><li>What will you change on our Google Business Profile in the first month?</li><li>Will each city page have its own DISCOM, subsidy and project content?</li><li>How will you report: rankings alone, or calls, WhatsApp chats and form enquiries from organic and Maps?</li><li>Who writes the content, and who checks subsidy and net-metering facts?</li></ol><p>As a <a href=\"../solar-marketing-agency-delhi-ncr.html\">solar marketing agency</a> working with 30+ solar EPCs and manufacturers across India, we usually run SEO alongside paid ads: ads bring enquiries now while Maps and city pages build up. We start with a 90-day sprint, then move to a flexible arrangement. If you are weighing paid search too, read our guide to <a href=\"google-ads-solar-installers-delhi-ncr.html\">Google Ads for solar installers in Delhi NCR</a>.</p>"
+    }
+  ],
+  "faqs": [
+    [
+      "How long does SEO take for a solar company in Delhi NCR?",
+      "Fixes to your Google Business Profile and reviews can start helping Maps visibility within weeks, while new city pages and articles usually take a few months to build steady traffic. Results depend on competition in each city, and no one can guarantee a ranking."
+    ],
+    [
+      "Do I need a separate Google Business Profile for each NCR city?",
+      "Only if you have a real, staffed office or warehouse in that city. Otherwise use one profile with service areas (Google allows up to 20) and support other cities with strong city pages on your website. Fake or virtual addresses risk suspension."
+    ],
+    [
+      "Is SEO or Google Ads better for solar installers?",
+      "They do different jobs. Google Ads brings enquiries as soon as it is switched on but stops when you stop paying. SEO and Maps take longer but keep bringing enquiries. Most NCR installers do best running both, with ads covering cities where they don't rank yet."
+    ],
+    [
+      "What keywords should a solar installer in NCR target?",
+      "Start with near-me and city searches such as \"solar panel installation in Noida\" or \"rooftop solar Gurugram\", then add question searches about cost, subsidy and net metering, and a few Hindi or Hinglish queries. Use Search Console to see what you already appear for."
+    ]
+  ],
+  "related": [
+    [
+      "solar-marketing-agency-delhi-ncr.html",
+      "Service",
+      "Solar marketing agency"
+    ],
+    [
+      "blog/digital-marketing-solar-companies-india.html",
+      "Guide",
+      "Digital marketing for solar companies"
+    ],
+    [
+      "blog/google-ads-solar-installers-delhi-ncr.html",
+      "Guide",
+      "Google Ads for solar installers in Delhi NCR"
+    ]
+  ],
+  "cta_h2": "Want your solar company found in every NCR city?",
+  "cta_p": "Book a free call. We'll review your Google Business Profile, city pages and search visibility across Delhi NCR and share a 90-day plan for more organic solar enquiries.",
+  "wa_text": "Hi Performance and Pixel, I read your guide on solar SEO services in Delhi NCR and I'd like a free review of my website and Google profile."
+}
